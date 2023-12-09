@@ -14,9 +14,8 @@ Latest News
 ======
 ● Serving as Senior Area Chair for ICML 2024 and Area Chair for NAACL 2024 (Dec. 2023) <br>
 ● I organized the [Efficient Natural Language and Speech Processing Workshop](https://neurips2023-enlsp.github.io/) at NeurIPS 2023. Please consider submitting your work to the workshop (Oct. 2023)<br>
-● Serving as Area Chair for NeurIPS 2023, ACMMM 2023 (Mar. 2023) <br>
-● Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. <br>
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+● Serving as Area Chair for CVPR 2024, ICLR 2024 and ACMMM 2024 (Aug. 2023) <be>
+● Serving as Senior Area Chair for NeurIPS 2023 on Main Track and Datasets and Benchmarks Track (Mar. 2023) <be>
+● I organized the [Trustworthy and Reliable Large-Scale Machine Learning Models Workshop](https://rtml-iclr2023.github.io/cfp.html) at ICLR 2023. Please consider submitting your work to the workshop (Feb. 2023)<be>
+● Invited talk at [Fudan University](https://mp.weixin.qq.com/s/OOIV_Byo6_3g8qLVtFEPpA)(Dec. 2022)<br>
+● Serving as Area Chair for CVPR 2023, WACV 2023, and AAAI 2023 (Sep. 2022)<br>
