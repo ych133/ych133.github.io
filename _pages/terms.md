@@ -1,5 +1,5 @@
 ---
 permalink: /terms/
-title: "Terms and Privacy Policy"
-modified: 2016-06-06
+title: "Academic Services "
+modified: 2023-12-09
 ---
