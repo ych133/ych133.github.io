@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Visiting Professor at Rice University/Renmin University of China. Before that, I was a Principal Researcher at Microsoft Research Redmond. From 2015-2018, I was a Research Staff Member at IBM Research & MIT-IBM Watson AI Lab. I got a Ph.D. from Northwestern University in 2015 and a bachelor’s degree from Tsinghua University in 2010. My research covers deep learning in general, with specific interests in model compression and efficiency, deep generative models, and vision+language pertaining. I have led several teams and productized these techniques for Microsoft-OpenAI core products (e.g., Github Copilot, DALL-E-2, ChatGPT, GPT-4). I serve (or have served) as a senior area chair for NeurIPS, ICML, AAAI, and area chair for CVPR, ICLR, IJCAI, ACMMM, and NAACL.
 
-Getting started
+Latest News
 ======
 ● Serving as Area Chair for NeurIPS 2023, ACMMM 2023 (Mar. 2023) <br>
 ● Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. <br>
