@@ -22,6 +22,7 @@ author_profile: true
 * Adaptive Budget Allocation for Parameter-Efficient Fine-Tuning. Qingru Zhang, Minshuo Chen, Alexander Bukharin, Pengcheng He, Yu Cheng, Weizhu Chen, Tuo Zhao. ICLR 2023.
 * Frido: Feature Pyramid Diffusion for Complex Scene Image Synthesis. Wan-Cyuan Fan, Yen-Chun Chen, DongDong Chen, Yu Cheng, Lu Yuan, Yu-Chiang Frank Wang. AAAI 2023.
 * Hypotheses Tree Building for One-Shot Temporal Sentence Localization. Daizong Liu, Xiang Fang, Pan Zhou, Xing Di, Weining Lu, Yu Cheng. AAAI 2023.
+* Filling the Information Gap between Video and Query for Language-Driven Moment Retrieval. Daizong Liu, Xiaoye Qu, Jianfeng Dong, Guoshun Nan, Pan Zhou, Zichuan Xu, Lixing Chen, He Yan, Yu Cheng. ACMMM 2023.
 
 2022
 * Senior Area Chair: ICML 2024
