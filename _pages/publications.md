@@ -38,3 +38,4 @@ author_profile: true
 * Memory-guided Semantic Learning Network for Temporal Sentence Grounding. Daizong Liu, Xiaoye Qu, Xing Di, **Yu Cheng**, Zichuan Xu, Pan Zhou. [AAAI 2022](https://aaai.org/conference/aaai/aaai-22/)
 * Unsupervised Temporal Video Grounding with Deep Semantic Clustering. Daizong Liu, Xiaoye Qu, Yinzhen Wang, Xing Di, Kai Zou, **Yu Cheng**, Zichuan Xu, Pan Zhou. [AAAI 2022](https://aaai.org/conference/aaai/aaai-22/)
 * Playing Lottery Tickets with Vision and Language. Zhe Gan, Yen-Chun Chen, Linjie Li, Tianlong Chen, **Yu Cheng**, Shuohang Wang, Jingjing Liu. [AAAI 2022](https://aaai.org/conference/aaai/aaai-22/)
+* Efficient Robust Training via Backward Smoothing. Jinghui Chen, **Yu Cheng**, Zhe Gan, Quanquan Gu, Jingjing Liu. [AAAI 2022](https://aaai.org/conference/aaai/aaai-22/)
