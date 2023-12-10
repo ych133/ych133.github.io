@@ -30,6 +30,15 @@ Work experience
 * 2018 - Now: Visiting Professor, Renmin University of China
   * Teaching the graduate course “Advanced Deep Learning”
   
-Service
+Awards and honors
 ======
-* Currently signed in to 43 different slack teams
+* 2022: First place in the NLP leaderboards Spider, SParC, and CoSQL
+* 2021: Best Student Paper Honourable Mention in WACV 2021
+* 2021: First place in the multimodal TVR and TVQA leaderboards
+* 2020: First place in the multimodal and commonsense leaderboards VCR and NLVR
+* 2020: Third place in the VQA Challenge 2020
+* 2019: First place in the NLP leaderboards GLUE, ARC, and CommonsenseQA
+* 2018: Second place in the Visual Dialogue Challenge
+* 2016: Winner of Data Challenge in ICHI 2016
+* 2014: First Place, NIST TRECVID 2014 Surveillance Event Detection
+* 2013: Second Place, NIST TRECVID 2013 Surveillance Event Detection
