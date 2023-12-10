@@ -25,7 +25,16 @@ author_profile: true
 * Filling the Information Gap between Video and Query for Language-Driven Moment Retrieval. Daizong Liu, Xiaoye Qu, Jianfeng Dong, Guoshun Nan, Pan Zhou, Zichuan Xu, Lixing Chen, He Yan, Yu Cheng. ACMMM 2023.
 
 2022
-* Senior Area Chair: ICML 2024
-* Senior Area Chair: NeurIPS 2023
-* Area Chair: NeurIPS 2022
-* Area Chair: ICLR 2024
+* RASAT: Integrating Relational Structures into Pretrained Seq2Seq Model for Text-to-SQL. Jiexing Qi, Jingyao Tang, Ziwei He, Xiangpeng Wan, Chenghu Zhou, Xinbing Wang, Quanshi Zhang, Zhouhan Lin. EMNLP 2022.
+* Rethinking the Video Sampling and Reasoning Strategies for Temporal Sentence Grounding. Jiahao Zhu, Daizong Liu, Pan Zhou, Xing Di, Yu Cheng, Song Yang, Wenzheng Xu, Zichuan Xu, Yao Wan, Lichao Sun, Zeyu Xiong. EMNLP 2022.
+* M3ViT: Mixture-of-Experts Vision Transformer for Efficient Multi-task Learning with Model-Accelerator Co-design. Hanxue Liang, Zhiwen Fan, Rishov Sarkar, Ziyu Jiang, Tianlong Chen, Kai Zou, Yu Cheng, Cong Hao, Zhangyang Wang. NeurIPS 2022.
+* Point Cloud Domain Adaptation via Masked Local 3D Structure Prediction. Hanxue Liang, Hehe Fan, Zhiwen Fan, Yi Wang, Tianlong Chen, Yu Cheng, Zhangyang Wang. ECCV 2022.
+* DnA: Improving Few-Shot Transfer Learning with Low-Rank Decomposition and Alignment. Ziyu Jiang, Tianlong Chen, Xuxi Chen, Yu Cheng, Luowei Zhou, Lu Yuan, Ahmed Awadallah, Zhangyang Wang. ECCV 2022.
+* Scalable Learning to Optimize: A Learned Optimizer Can Train Big Models. Xuxi Chen, Tianlong Chen, Yu Cheng, Weizhu Chen, Ahmed Awadallah, Zhangyang Wang. ECCV 2022.
+* MA-CLIP: Towards Modality-Agnostic Contrastive Language-Image Pre-training. Haoxuan You, Luowei Zhou, Bin Xiao, Noel C Codella, Yu Cheng, Ruochen Xu, Shih-Fu Chang, Lu Yuan. ECCV 2022.
+* SemAttack: Natural Textual Attacks via Different Semantic Spaces. Boxin Wang, Chejian Xu, Xiangyu Liu, Yu Cheng, Bo Li. NAACL 2022.
+* A Good Prompt Is Worth Millions of Parameters? Low-resource Prompt-based Learning for Vision-Language Models. Woojeong Jin, Yu Cheng, Yelong Shen, Weizhu Chen, Xiang Ren. ACL 2022.
+* The Principle of Diversity: Training Stronger Vision Transformers Calls for Reducing All Levels of Redundancy. Tianlong Chen, Zhenyu Zhang, Yu Cheng, Ahmed Awadallah, Zhangyang Wang. CVPR 2022.
+* Memory-guided Semantic Learning Network for Temporal Sentence Grounding. Daizong Liu, Xiaoye Qu, Xing Di, Yu Cheng, Zichuan Xu, Pan Zhou. AAAI 2022.
+* Unsupervised Temporal Video Grounding with Deep Semantic Clustering. Daizong Liu, Xiaoye Qu, Yinzhen Wang, Xing Di, Kai Zou, Yu Cheng, Zichuan Xu, Pan Zhou. AAAI 2022.
+* Playing Lottery Tickets with Vision and Language. Zhe Gan, Yen-Chun Chen, Linjie Li, Tianlong Chen, Yu Cheng, Shuohang Wang, Jingjing Liu. AAAI 2022.
