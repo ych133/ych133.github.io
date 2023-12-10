@@ -16,9 +16,16 @@ Conference Committee
 * Senior PC: IJCAI 2021
 
 Conference Organizer
-* B.S. in Engineering, Tsinghua University, 2010
-* Ph.D. in Computer Science, Tsinghua University, 2015
+* Efficient Natural Language and Speech Processing Workshop at NeurIPS 2023
+* Trustworthy and Reliable Large-Scale Machine Learning Models Workshop at ICLR 2023
+* Connected Health at Big Data Era Workshop at KDD 2015
+* Local Chair of ACMMM 2020
 
 Journal Reviewer
-* B.S. in Engineering, Tsinghua University, 2010
-* Ph.D. in Computer Science, Tsinghua University, 2015
+* Transactions of the Association for Computational Linguistics (TACL)
+* IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+* International Journal of Computer Vision (IJCV)
+* ACM Transactions on Knowledge Discovery from Data (TKDD)
+* IEEE Transactions on Knowledge and Data Engineering Data (TKDE)
+* IEEE Transactions on Image Processing (TIP)
+* IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
