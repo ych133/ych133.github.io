@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 2024
-* Enhancing Low-Resource Relation Representations through Multi-View Decoupling. Chenghao Fan, Wei Wei, Xiaoye Qu, Zhenyi Lu, Xie Wenfeng, Yu Cheng. [AAAI 2024]
-* Unsupervised Domain Adaptative Temporal Sentence Localization with Mutual Information Maximization. Daizong Liu, Xiang Fang, Xiaoye Qu, Jianfeng Dong, He Yan, Yang Yang, Yu Cheng. [AAAI 2024]
+* Enhancing Low-Resource Relation Representations through Multi-View Decoupling. Chenghao Fan, Wei Wei, Xiaoye Qu, Zhenyi Lu, Xie Wenfeng, Yu Cheng. [AAAI 2024](https://aaai.org/aaai-conference/)
+* Unsupervised Domain Adaptative Temporal Sentence Localization with Mutual Information Maximization. Daizong Liu, Xiang Fang, Xiaoye Qu, Jianfeng Dong, He Yan, Yang Yang, Yu Cheng. [AAAI 2024](https://aaai.org/aaai-conference/)
 * ProS: Facial Omni-Representation Learning via Prototype-based Self-Distillation. Xing Di, Yiyu Zheng, Xiaoming Liu, Yu Cheng. [WACV 2024]
 
 2023
