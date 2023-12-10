@@ -15,7 +15,7 @@ Latest News
 ● Serving as Senior Area Chair for ICML 2024 and Area Chair for NAACL 2024 (Dec. 2023) <br>
 ● I organized the [Efficient Natural Language and Speech Processing Workshop](https://neurips2023-enlsp.github.io/) at NeurIPS 2023. Please consider submitting your work to the workshop (Oct. 2023) <br>
 ● Serving as Area Chair for CVPR 2024, ICLR 2024 and ACMMM 2024 (Aug. 2023) <br>
-● Serving as Senior Area Chair for NeurIPS 2023 of Main Track and Datasets and Benchmarks Track (Mar. 2023) <br>
+● Serving as Senior Area Chair for the Main Track and Datasets & Benchmarks Track of NeurIPS 2023 (Mar. 2023) <br>
 ● I organized the [Trustworthy and Reliable Large-Scale Machine Learning Models Workshop](https://rtml-iclr2023.github.io/cfp.html) at ICLR 2023. Please consider submitting your work to the workshop (Feb. 2023) <br>
 ● Invited panel talk at [Efficient Natural Language and Speech Processing Workshop](https://neurips2022-enlsp.github.io/) at NeurIPS 2022 (Dec. 2022) <br>
 ● Invited talk at [Fudan University](https://mp.weixin.qq.com/s/OOIV_Byo6_3g8qLVtFEPpA) (Dec. 2022)<br>
