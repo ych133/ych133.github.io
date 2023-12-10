@@ -47,3 +47,9 @@ author_profile: true
 * Chasing Sparsity in Vision Transformers: An End-to-End Exploration. Tianlong Chen, **Yu Cheng**, Zhe Gan, Lu Yuan, Lei Zhang, Zhangyang Wang. [NeurIPS 2021](https://nips.cc/Conferences/2021)
 * Data-Efficient GAN Training Beyond (Just) Augmentations: A Lottery Ticket Perspective. Tianlong Chen, **Yu Cheng**, Zhe Gan, Jingjing Liu, Zhangyang Wang. [NeurIPS 2021](https://nips.cc/Conferences/2021)
 * The Elastic Lottery Ticket Hypothesis. Xiaohan Chen, **Yu Cheng**, Shuohang Wang, Zhe Gan, Jingjing Liu, Zhangyang Wang. [NeurIPS 2021](https://nips.cc/Conferences/2021)
+* Maxva: Fast Adaptation of Step Sizes by Maximizing Observed Variance of Gradients. Chen Zhu, **Yu Cheng**, Zhe Gan, Furong Huang, Jingjing Liu, Tom Goldstein. [ECML 2021](https://2021.ecmlpkdd.org/index.html)
+* EarlyBERT: Efficient BERT Training via Early-bird Lottery Tickets. Xiaohan Chen, **Yu Cheng**, Shuohang Wang, Zhe Gan, Zhangyang Wang, Jingjing Liu. [ACL 2021](https://2021.aclweb.org/)
+* Cluster-Former: Clustering-based Sparse Transformer for Long-Range Dependency Encoding. Shuohang Wang, Luowei Zhou, Zhe Gan, Yen-Chun Chen, Yuwei Fang, Siqi Sun, **Yu Cheng**, Jingjing Liu. [ACL 2021](https://2021.aclweb.org/)
+* Deep Co-Attention Network for Multi-View Subspace Learning. Lecheng Zheng, **Yu Cheng**, Hongxia Yang, Nan Cao, Jingrui He. [WWW 2021](https://archives.iw3c2.org/www2021/)
+* InfoBERT: Improving Robustness of Language Models from an Information Theoretic Perspective. Boxin Wang, Shuohang Wang, Yu Cheng, Zhe Gan, Ruoxi Jia, Bo Li, Jingjing Liu. [ICLR 2021](https://iclr.cc/Conferences/2021)
+* 
