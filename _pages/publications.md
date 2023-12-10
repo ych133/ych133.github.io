@@ -40,3 +40,10 @@ author_profile: true
 * Playing Lottery Tickets with Vision and Language. Zhe Gan, Yen-Chun Chen, Linjie Li, Tianlong Chen, **Yu Cheng**, Shuohang Wang, Jingjing Liu. [AAAI 2022](https://aaai.org/conference/aaai/aaai-22/)
 * Efficient Robust Training via Backward Smoothing. Jinghui Chen, **Yu Cheng**, Zhe Gan, Quanquan Gu, Jingjing Liu. [AAAI 2022](https://aaai.org/conference/aaai/aaai-22/)
 * Adversarial Feature Augmentation and Normalization for Visual Recognition. Tianlong Chen, **Yu Cheng**, Zhe Gan, Jianfeng Wang, Lijuan Wang, Jingjing Liu, Zhangyang Wang. [Transactions on Machine Learning Research (TMLR)](https://jmlr.org/tmlr/)
+
+2021
+* Adversarial GLUE: A Multi-Task Benchmark for Robustness Evaluation of Language Models. Boxin Wang, Chejian Xu, Shuohang Wang, Zhe Gan, **Yu Cheng**, Jianfeng Gao, Ahmed Hassan Awadallah, Bo Li. [NeurIPS 2021](https://nips.cc/Conferences/2021)
+* VALUE: A Multi-Task Benchmark for Video-and-Language Understanding Evaluation. Linjie Li, Jie Lei, Zhe Gan, Licheng Yu, Yen-Chun Chen, Rohit Pillai, **Yu Cheng**, Luowei Zhou, Xin Eric Wang, William Yang Wang, Tamara Lee Berg, Mohit Bansal, Jingjing Liu, Lijuan Wang, Zicheng Liu. [NeurIPS 2021](https://nips.cc/Conferences/2021)
+* Chasing Sparsity in Vision Transformers: An End-to-End Exploration. Tianlong Chen, **Yu Cheng**, Zhe Gan, Lu Yuan, Lei Zhang, Zhangyang Wang. [NeurIPS 2021](https://nips.cc/Conferences/2021)
+* Data-Efficient GAN Training Beyond (Just) Augmentations: A Lottery Ticket Perspective. Tianlong Chen, **Yu Cheng**, Zhe Gan, Jingjing Liu, Zhangyang Wang. [NeurIPS 2021](https://nips.cc/Conferences/2021)
+* The Elastic Lottery Ticket Hypothesis. Xiaohan Chen, **Yu Cheng**, Shuohang Wang, Zhe Gan, Jingjing Liu, Zhangyang Wang. [NeurIPS 2021](https://nips.cc/Conferences/2021)
