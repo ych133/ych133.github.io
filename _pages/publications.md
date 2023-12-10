@@ -51,5 +51,9 @@ author_profile: true
 * EarlyBERT: Efficient BERT Training via Early-bird Lottery Tickets. Xiaohan Chen, **Yu Cheng**, Shuohang Wang, Zhe Gan, Zhangyang Wang, Jingjing Liu. [ACL 2021](https://2021.aclweb.org/)
 * Cluster-Former: Clustering-based Sparse Transformer for Long-Range Dependency Encoding. Shuohang Wang, Luowei Zhou, Zhe Gan, Yen-Chun Chen, Yuwei Fang, Siqi Sun, **Yu Cheng**, Jingjing Liu. [ACL 2021](https://2021.aclweb.org/)
 * Deep Co-Attention Network for Multi-View Subspace Learning. Lecheng Zheng, **Yu Cheng**, Hongxia Yang, Nan Cao, Jingrui He. [WWW 2021](https://archives.iw3c2.org/www2021/)
-* InfoBERT: Improving Robustness of Language Models from an Information Theoretic Perspective. Boxin Wang, Shuohang Wang, Yu Cheng, Zhe Gan, Ruoxi Jia, Bo Li, Jingjing Liu. [ICLR 2021](https://iclr.cc/Conferences/2021)
-* 
+* InfoBERT: Improving Robustness of Language Models from an Information Theoretic Perspective. Boxin Wang, Shuohang Wang, **Yu Cheng**, Zhe Gan, Ruoxi Jia, Bo Li, Jingjing Liu. [ICLR 2021](https://iclr.cc/Conferences/2021)
+* APo-VAE: Text Generation in Hyperbolic Space. Shuyang Dai, Zhe Gan, **Yu Cheng**, Chenyang Tao, Lawrence Carin, Jingjing Liu. [NAACL 2021](https://2021.naacl.org/)
+* Few-Shot Text Classification with Triplet Networks, Data Augmentation, and Curriculum Learning. Jason Wei, Chengyu Huang, Soroush Vosoughi, **Yu Cheng**, Shiqi Xu. [NAACL 2021](https://2021.naacl.org/)
+* Context-aware Biaffine Localizing Network for Temporal Sentence Grounding. Daizong Liu, Xiaoye Qu, Jianfeng Dong, Pan Zhou, **Yu Cheng**, Wei Wei, Zichuan Xu, Yulai Xie. [CVPR 2021](https://cvpr2021.thecvf.com/)
+* UC2: Universal Cross-lingual Cross-modal Vision-and-Language Pre-training. Mingyang Zhou, Luowei Zhou, Shuohang Wang, **Yu Cheng**, Linjie Li, Zhou Yu, Jingjing Liu. [CVPR 2021](https://cvpr2021.thecvf.com/)
+* EnlightenGAN: Deep Light Enhancement without Paired Supervision. Yifan Jiang, Xinyu Gong, Ding Liu, **Yu Cheng**, Chen Fang, Xiaohui Shen, Jianchao Yang, Pan Zhou, Zhangyang Wang. [IEEE Transactions on Image Processing (TIP)](https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing)
