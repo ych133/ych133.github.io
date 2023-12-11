@@ -12,7 +12,7 @@ Conference Area Chair
 * Area Chair: CVPR 2022 to 2024
 * Area Chair: NAACL 2024
 * Area Chair: ACMMM 2020 to 2024
-* Area Chair: AAAI 2022, 2024
+* Senior PC: AAAI 2022, 2024
 * Senior PC: IJCAI 2021
 
 Conference Organizer
