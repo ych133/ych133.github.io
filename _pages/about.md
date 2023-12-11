@@ -21,4 +21,4 @@ Latest News
 ● Invited talk at [Fudan University](https://mp.weixin.qq.com/s/OOIV_Byo6_3g8qLVtFEPpA) (Dec. 2022)<br>
 ● Invited talk at [Hardware and Algorithms for Learning On-a-chip Workshop](https://sites.google.com/rice.edu/iccad-halo-2022/schedule?authuser=0) at ICCAD 2022 (Nov. 2022) <br>
 ● Invited talk at [Learning with Limited and Imperfect Data Workshop](https://eccv2022.ecva.net/program/workshop-schedule/) at ECCV 2022 (Oct. 2022) <br>
-● Serving as Area Chair for CVPR 2023, WACV 2023, and ACMMM 2023(Sep. 2022) <br>
+● Serving as Area Chair for CVPR 2023, WACV 2023, and ACMMM 2023 (Sep. 2022) <br>
