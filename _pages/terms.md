@@ -4,7 +4,7 @@ title: "Academic Services "
 modified: 2023-12-09
 ---
 
-Conference Area Chair
+Area Chair
 * Senior Area Chair: ICML 2024
 * Senior Area Chair: NeurIPS 2023
 * Area Chair: NeurIPS 2022
