@@ -78,5 +78,5 @@ author_profile: true
 * Adversarial Robustness: From Self-Supervised Pre-Training to Fine-Tuning. Tianlong Chen, Sijia Liu, Shiyu Chang, **Yu Cheng**, Lisa Amini, Zhangyang Wang. [CVPR 2020](https://cvpr2020.thecvf.com/)
 * VIOLIN: A Large-Scale Dataset for Video-and-Language Inference. Jingzhou Liu, Wenhu Chen, **Yu Cheng**, Zhe Gan, Licheng Yu, Yiming Yang, Jingjing Liu. [CVPR 2020](https://cvpr2020.thecvf.com/)
 * BachGAN: High-Resolution Image Synthesis from Salient Object Layout. Yandong Li, **Yu Cheng**, Zhe Gan, Licheng Yu, Liqiang Wang, Jingjing Liu. [CVPR 2020](https://cvpr2020.thecvf.com/)
-* Contrastively Smoothed Class Alignment for Unsupervised Domain Adaptation. Shuyang Dai, **Yu Cheng**, Yizhe Zhang, Zhe Gan, Jingjing Liu, Lawrence Carin. [ACCV](https://accv2020.github.io/index.html)
+* Contrastively Smoothed Class Alignment for Unsupervised Domain Adaptation. Shuyang Dai, **Yu Cheng**, Yizhe Zhang, Zhe Gan, Jingjing Liu, Lawrence Carin. [ACCV 2020](https://accv2020.github.io/index.html)
 * What Makes A Good Story? Designing Composite Rewards for Visual Storytelling. Junjie Hu, **Yu Cheng**, Zhe Gan, Jingjing Liu, Jianfeng Gao, Graham Neubig. [AAAI 2020](https://aaai.org/conference/aaai/aaai-20/)
