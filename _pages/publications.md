@@ -13,7 +13,7 @@ author_profile: true
 * ProS: Facial Omni-Representation Learning via Prototype-based Self-Distillation. Xing Di, Yiyu Zheng, Xiaoming Liu, **Yu Cheng**. [WACV 2024](https://wacv2024.thecvf.com/)
 
 2023
-* DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models. Boxin Wang, Weixin Chen, Hengzhi Pei, Chulin Xie, Mintong Kang, Chenhui Zhang, Chejian Xu, Zidi Xiong, Ritik Dutta, Rylan Schaeffer, Sang T Truong, Simran Arora, Mantas Mazeika, Dan Hendrycks, Zinan Lin, **Yu Cheng**, Sanmi Koyejo, Dawn Song, Bo Li. [NeurIPS 2023](https://nips.cc/)
+* DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models. Boxin Wang, Weixin Chen, Hengzhi Pei, Chulin Xie, Mintong Kang, Chenhui Zhang, Chejian Xu, Zidi Xiong, Ritik Dutta, Rylan Schaeffer, Sang T Truong, Simran Arora, Mantas Mazeika, Dan Hendrycks, Zinan Lin, **Yu Cheng**, Sanmi Koyejo, Dawn Song, Bo Li. [NeurIPS 2023](https://nips.cc/) (**Outstanding Paper Award**)
 * Annotations Are Not All You Need: A Cross-modal Knowledge Transfer Network for Unsupervised Temporal Sentence Grounding. Xiang Fang, Daizong Liu, Wanlong Fang, Pan Zhou, **Yu Cheng**, Keke Tang, Kai Zou. [EMNLP 2023](https://2023.emnlp.org/)
 * Low-Switching Policy Gradient with Exploration via Online Sensitivity Sampling. Yunfan Li, Yiran Wang, **Yu Cheng**, Lin Yang. [ICML 2023](https://icml.cc/Conferences/2023)
 * Local Byte Fusion for Neural Machine Translation. Makesh Narsimhan Sreedhar, Xiangpeng Wan, **Yu Cheng**, Junjie Hu. [ACL 2023](https://2023.aclweb.org/)
@@ -59,7 +59,7 @@ author_profile: true
 * Context-aware Biaffine Localizing Network for Temporal Sentence Grounding. Daizong Liu, Xiaoye Qu, Jianfeng Dong, Pan Zhou, **Yu Cheng**, Wei Wei, Zichuan Xu, Yulai Xie. [CVPR 2021](https://cvpr2021.thecvf.com/)
 * UC2: Universal Cross-lingual Cross-modal Vision-and-Language Pre-training. Mingyang Zhou, Luowei Zhou, Shuohang Wang, **Yu Cheng**, Linjie Li, Zhou Yu, Jingjing Liu. [CVPR 2021](https://cvpr2021.thecvf.com/)
 * EnlightenGAN: Deep Light Enhancement without Paired Supervision. Yifan Jiang, Xinyu Gong, Ding Liu, **Yu Cheng**, Chen Fang, Xiaohui Shen, Jianchao Yang, Pan Zhou, Zhangyang Wang. [IEEE Transactions on Image Processing (TIP)](https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing)
-* Meta Module Network for Compositional Visual Reasoning. Wenhu Chen, Zhe Gan, Linjie Li, **Yu Cheng**, William Wang, Jingjing Liu. [WACV 2021](https://wacv2021.thecvf.com/home)
+* Meta Module Network for Compositional Visual Reasoning. Wenhu Chen, Zhe Gan, Linjie Li, **Yu Cheng**, William Wang, Jingjing Liu. [WACV 2021](https://wacv2021.thecvf.com/home) (**Best Student Paper Honorable Mention**)
 
 2020
 * Contextual Text Style Transfer. **Yu Cheng**, Zhe Gan, Yizhe Zhang, Oussama Elachqar, Dianqi Li, Jingjing Liu. [EMNLP 2020](https://2020.emnlp.org/)
