@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ORPxbV4AAAAJ&hl=en"
-  email            :
+  email            : "chengyu05@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   LinkedIn         : "chengyu05"
-  orcid            : "http://orcid.org/my-orcid?orcid=0000-0002-7901-8662"
+  orcid            : #"http://orcid.org/my-orcid?orcid=0000-0002-7901-8662"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
