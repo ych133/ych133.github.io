@@ -32,7 +32,7 @@ Work experience
   
 Awards and honors
 ======
-* 2021: **Outstanding Paper Award** in NeurIPS 2023
+* 2023: **Outstanding Paper Award** in NeurIPS 2023
 * 2022: First place in the NLP leaderboards Spider, SParC, and CoSQL
 * 2021: **Best Student Paper Honourable Mention** in WACV 2021
 * 2021: First place in the multimodal TVR and TVQA leaderboards
