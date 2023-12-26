@@ -12,7 +12,7 @@ I am a Visiting Professor at Rice University. From 2018-2023, I was a Principal 
 
 Latest News
 ======
-● Our work "DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models" has won the **Outstanding Paper Awards** in NeurIPS 2023 (Dec. 2023) <br>
+● Our work "DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models" has won the **Outstanding Datasets and Benchmarks Papers** in NeurIPS 2023 (Dec. 2023) <br>
 ● Serving as Senior Area Chair for ICML 2024 and Area Chair for NAACL 2024 (Dec. 2023) <br>
 ● I organized the [Efficient Natural Language and Speech Processing Workshop](https://neurips2023-enlsp.github.io/) at NeurIPS 2023. Please consider submitting your work to the workshop (Oct. 2023) <br>
 ● Serving as Area Chair for CVPR 2024, ICLR 2024, and ACMMM 2024 (Aug. 2023) <br>
