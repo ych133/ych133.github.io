@@ -37,6 +37,6 @@ Awards and honors
 * 2020: Third place in the VQA Challenge 2020
 * 2018: Second place in the Visual Dialogue Challenge
 * 2016: Winner of Data Challenge in ICHI 2016
-* 2015: **Best Paper Finalist** in ICHI 2016
+* 2015: **Best Paper Finalist** in SDM 2015
 * 2014: First Place, NIST TRECVID 2014 Surveillance Event Detection
 * 2013: Second Place, NIST TRECVID 2013 Surveillance Event Detection
