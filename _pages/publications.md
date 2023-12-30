@@ -8,6 +8,7 @@ author_profile: true
 2024
 * Merge, Then Compress: Demystify Efficient SMoE with Hints from Its Routing Policy. Pingzhi Li, Zhenyu Zhang, Prateek Yadav, Yi-Lin Sung, **Yu Cheng**, Mohit Bansal, Tianlong Chen. [arXiv preprint](https://arxiv.org/pdf/2310.01334.pdf)
 * GRILL: Grounded Vision-language Pre-training via Aligning Text and Image Regions. Woojeong Jin, Subhabrata Mukherjee, **Yu Cheng**, Yelong Shen, Weizhu Chen, Ahmed Hassan Awadallah, Damien Jose, Xiang Ren. [arXiv preprint](https://arxiv.org/pdf/2305.14676.pdf)
+* CR-MoE: Consistent Routed Mixture-of-Experts for Scaling Contrastive Learning. Ziyu Jiang, Guoqing Zheng, **Yu Cheng**, Ahmed Hassan Awadallah, Zhangyang Wang. [Transactions on Machine Learning Research (TMLR)](https://jmlr.org/tmlr/)
 * Enhancing Low-Resource Relation Representations through Multi-View Decoupling. Chenghao Fan, Wei Wei, Xiaoye Qu, Zhenyi Lu, Xie Wenfeng, **Yu Cheng**. [AAAI 2024](https://aaai.org/aaai-conference/)
 * Unsupervised Domain Adaptative Temporal Sentence Localization with Mutual Information Maximization. Daizong Liu, Xiang Fang, Xiaoye Qu, Jianfeng Dong, He Yan, Yang Yang, **Yu Cheng**. [AAAI 2024](https://aaai.org/aaai-conference/)
 * ProS: Facial Omni-Representation Learning via Prototype-based Self-Distillation. Xing Di, Yiyu Zheng, Xiaoming Liu, **Yu Cheng**. [WACV 2024](https://wacv2024.thecvf.com/)
