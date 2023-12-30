@@ -40,3 +40,4 @@ Awards and honors
 * 2015: **Best Paper Finalist** in SDM 2015
 * 2014: First Place, NIST TRECVID 2014 Surveillance Event Detection
 * 2013: Second Place, NIST TRECVID 2013 Surveillance Event Detection
+* 2011: **Best Paper Honourable Mention** in ICEC 2011
