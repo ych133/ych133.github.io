@@ -41,3 +41,4 @@ Awards and honors
 * 2014: First Place, NIST TRECVID 2014 Surveillance Event Detection
 * 2013: Second Place, NIST TRECVID 2013 Surveillance Event Detection
 * 2011: **Best Paper Honourable Mention** in ICEC 2011
+* 2010: **Best Paper Award** in AROB 2010
