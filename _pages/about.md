@@ -12,10 +12,11 @@ redirect_from:
 
 ● My research covers deep learning in general, with specific interests in model compression and efficiency, deep generative models, and large multimodal\language models. I have led several teams and productized these techniques for Microsoft-OpenAI core products (e.g., Github Copilot, DALL-E-2, ChatGPT, GPT-4). 
 
-● I serve (or have served) as a senior area chair for NeurIPS and ICML, area chair for CVPR, ICLR, AAAI, IJCAI, ACMMM, and NAACL, and editorial board of TACL. My papers have won the Outstanding Paper Award in NeurIPS 2023, the Best Student Paper Honorable Mention in WACV 2021, and the Best Paper Finalist in SDM 2015.
+● I serve (or have served) as a senior area chair for NeurIPS and ICML, area chair for CVPR, ICLR, ACL, ACMMM, and NAACL, and the editorial board of TACL. My papers have won the Outstanding Paper Award in NeurIPS 2023, the Best Student Paper Honorable Mention in WACV 2021, and the Best Paper Finalist in SDM 2015.
 
 Latest News
 ======
+* Serving as Area Chair for ACL 2024.
 * Invited talk at Tencent about Mixture of Experts in Large Language Models (Jan. 2024)
 * Our work "DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models" has won the [**Outstanding Datasets and Benchmarks Paper**](https://blog.neurips.cc/2023/12/11/announcing-the-neurips-2023-paper-awards/) in NeurIPS 2023 (Dec. 2023) <br>
 * Serving as Senior Area Chair for ICML 2024 and Area Chair for NAACL 2024 (Dec. 2023) <br>
