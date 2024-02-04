@@ -16,7 +16,7 @@ redirect_from:
 
 Latest News
 ======
-* Serving as Area Chair for ACL 2024.
+* Serving as Area Chair for ACL 2024 (Jan. 2024).
 * Invited talk at Tencent about Mixture of Experts in Large Language Models (Jan. 2024)
 * Our work "DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models" has won the [**Outstanding Datasets and Benchmarks Paper**](https://blog.neurips.cc/2023/12/11/announcing-the-neurips-2023-paper-awards/) in NeurIPS 2023 (Dec. 2023) <br>
 * Serving as Senior Area Chair for ICML 2024 and Area Chair for NAACL 2024 (Dec. 2023) <br>
