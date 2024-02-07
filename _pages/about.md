@@ -16,10 +16,9 @@ redirect_from:
 
 Latest News
 ======
-* Serving as Area Chair for ACL 2024 (Jan. 2024).
+* Serving as Senior Area Chair for ICML 2024, Area Chair for NAACL 2024 and ACL 2024 (Jan. 2024).
 * Invited talk at Tencent about Mixture of Experts in Large Language Models (Jan. 2024)
-* Our work "DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models" has won the [**Outstanding Datasets and Benchmarks Paper**](https://blog.neurips.cc/2023/12/11/announcing-the-neurips-2023-paper-awards/) in NeurIPS 2023 (Dec. 2023) <br>
-* Serving as Senior Area Chair for ICML 2024 and Area Chair for NAACL 2024 (Dec. 2023) <br>
+* Our work "DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models" has won the [**Outstanding Paper Award**](https://blog.neurips.cc/2023/12/11/announcing-the-neurips-2023-paper-awards/) in NeurIPS 2023 (Dec. 2023) <br>
 * I organized the [Efficient Natural Language and Speech Processing Workshop](https://neurips2023-enlsp.github.io/) at NeurIPS 2023. Please consider submitting your work to the workshop (Oct. 2023) <br>
 * Serving as Area Chair for CVPR 2024, ICLR 2024, and ACMMM 2024 (Aug. 2023) <br>
 * Invited talk [On the Efficiency and Robustness of Foundation Models](https://www.ie.cuhk.edu.hk/wp-content/uploads/main/documents/sem1023_Dr.%20CHENG%20Yu_20230509.pdf) at the Chinese University of Hong Kong and Tsinghua University (May 2023) <br>
