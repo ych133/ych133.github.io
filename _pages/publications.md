@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 2024
+* Reinforcement Learning with Token-level Feedback for Controllable Text Generation. Wendi Li, Wei Wei, Kaihe xu, Wenfeng xie, Dangyang Chen, **Yu Cheng**. [NAACL 2024](https://2024.naacl.org/)
 * Merge, Then Compress: Demystify Efficient SMoE with Hints from Its Routing Policy. Pingzhi Li, Zhenyu Zhang, Prateek Yadav, Yi-Lin Sung, **Yu Cheng**, Mohit Bansal, Tianlong Chen. [ICLR 2024](https://iclr.cc/Conferences/2024)
 * Xinyu Zhao, Xuxi Chen, **Yu Cheng**, Tianlong Chen. Sparse MoE with Language Guided Routing for Multilingual Machine Translation. [ICLR 2024](https://iclr.cc/Conferences/2024)
 * GRILL: Grounded Vision-language Pre-training via Aligning Text and Image Regions. Woojeong Jin, Subhabrata Mukherjee, **Yu Cheng**, Yelong Shen, Weizhu Chen, Ahmed Hassan Awadallah, Damien Jose, Xiang Ren. [arXiv preprint](https://arxiv.org/pdf/2305.14676.pdf)
