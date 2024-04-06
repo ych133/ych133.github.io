@@ -14,6 +14,7 @@ I serve (or have served) as a senior area chair for NeurIPS and ICML, area chair
 
 Latest News
 ======
+* Our tutorial "Mixture-of-Experts in the Era of LLMs" has been accepted in ICML 2024. 
 * Serving as Senior Area Chair for ICML 2024, Area Chair for NAACL 2024 and ACL 2024 (Jan. 2024).
 * Invited talk at Tencent about Mixture of Experts in Large Language Models (Jan. 2024)
 * Our work "DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models" has won the [**Outstanding Paper Award**](https://blog.neurips.cc/2023/12/11/announcing-the-neurips-2023-paper-awards/) in NeurIPS 2023 (Dec. 2023) <br>
