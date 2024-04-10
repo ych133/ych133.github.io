@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Visiting Professor at Rice University. From 2018-2023, I was a Principal Researcher at Microsoft Research Redmond. Before that, I was a Research Staff Member at IBM Research & MIT-IBM Watson AI Lab. I got my Ph.D. Degree from Northwestern University in 2015 and my B.S. Degree from Tsinghua University in 2010. My research covers deep learning in general, with specific interests in model compression and efficiency, deep generative models, large multimodal and language models. From 2021 to 2023, I led several teams to productize these techniques for Microsoft-OpenAI core products (e.g., Copilot, DALL-E-2, ChatGPT, GPT-4). 
+I am a Visiting Professor at Rice University. From 2018-2023, I was a Principal Researcher at Microsoft Research Redmond. Before that, I was a Researcher at IBM Research & MIT-IBM Watson AI Lab. I got my Ph.D. Degree from Northwestern University in 2015 and my B.S. Degree from Tsinghua University in 2010. My research covers deep learning in general, with specific interests in model compression and efficiency, deep generative models, and large multimodal and language models. From 2021 to 2023, I led several teams to productize these techniques for Microsoft-OpenAI core products (e.g., Copilot, DALL-E-2, ChatGPT, GPT-4). 
 
-I serve (or have served) as a senior area chair for NeurIPS and ICML, area chair for CVPR, ICLR, ACL, ACMMM, and NAACL, and the editorial board of TACL. My papers have won the Outstanding Paper Award in NeurIPS 2023, the Best Student Paper Honorable Mention in WACV 2021, and the Best Paper Finalist in SDM 2015.
+I serve as a senior area chair for NeurIPS and ICML, area chair for CVPR, ICLR, ACL, EMNLP, and NAACL, and on the editorial board of TACL. My papers have won the Outstanding Paper Award in NeurIPS 2023, the Best Student Paper Honorable Mention in WACV 2021, and the Best Paper Finalist in SDM 2015.
 
 Latest News
 ======
