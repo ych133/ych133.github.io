@@ -8,6 +8,7 @@ author_profile: true
 2024
 * MoE-RBench: Towards Building Reliable Language Models with Sparse Mixture-of-Experts. Guanjie Chen, Xinyu Zhao, Tianlong Chen, **Yu Cheng**. [ICML 2024](https://icml.cc/Conferences/2024)
 * LIDAO: Towards Limited Interventions for Debiasing (Large) Language Models. Tianci Liu, Haoyu Wang, Shiyang Wang, **Yu Cheng**, Jing Gao. [ICML 2024](https://icml.cc/Conferences/2024)
+* Multimodal Instruction Tuning with Conditional Mixture of LoRA. Ying Shen, Zhiyang Xu, Qifan Wang, **Yu Cheng**, Wenpeng Yin, Lifu Huang. [ACL 2024](https://2024.aclweb.org/)
 * Reinforcement Learning with Token-level Feedback for Controllable Text Generation. Wendi Li, Wei Wei, Kaihe xu, Wenfeng xie, Dangyang Chen, **Yu Cheng**. [NAACL 2024](https://2024.naacl.org/)
 * Merge, Then Compress: Demystify Efficient SMoE with Hints from Its Routing Policy. Pingzhi Li, Zhenyu Zhang, Prateek Yadav, Yi-Lin Sung, **Yu Cheng**, Mohit Bansal, Tianlong Chen. [ICLR 2024](https://iclr.cc/Conferences/2024)
 * Xinyu Zhao, Xuxi Chen, **Yu Cheng**, Tianlong Chen. Sparse MoE with Language Guided Routing for Multilingual Machine Translation. [ICLR 2024](https://iclr.cc/Conferences/2024)
