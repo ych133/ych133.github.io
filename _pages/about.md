@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming Professor in Computer Science and Engineering at the Chinese University of Hong Kong. From 2018-2023, I was a Principal Researcher at Microsoft Research Redmond. Before that, I was a Research Staff Member at IBM Research & MIT-IBM Watson AI Lab. I got my Ph.D. from Northwestern University in 2015 and my B.S. degree from Tsinghua University in 2010. My research covers deep learning in general, with specific interests in model compression/efficiency, deep generative models, and large multimodal/language models. From 2021 to 2023, I led several teams to productize these techniques for Microsoft-OpenAI core models (Copilot, DALL-E-2, ChatGPT, GPT-4). 
+I am an incoming Professor in Computer Science and Engineering at the Chinese University of Hong Kong. From 2018-2023, I was a Principal Researcher at Microsoft Research Redmond. Before that, I was a Research Staff Member at IBM Research & MIT-IBM Watson AI Lab. I got my Ph.D. from Northwestern University in 2015 and my B.S. degree from Tsinghua University in 2010. My research covers deep learning in general, with specific interests in model compression & efficiency, deep generative models, and large multimodal/language models. From 2021 to 2023, I led several teams to productize these techniques for Microsoft-OpenAI core models (Copilot, DALL-E-2, ChatGPT, GPT-4). 
 
 I serve as a Senior Area Chair for NeurIPS and ICML, Area Chair for CVPR, ICLR, ACL, EMNLP, and NAACL, and on the Editorial Board of TACL. My papers have won the Outstanding Paper Award in NeurIPS 2023, the Best Student Paper Honorable Mention in WACV 2021, and the Best Paper Finalist in SDM 2015.
 
