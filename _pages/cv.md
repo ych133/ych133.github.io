@@ -16,6 +16,8 @@ Education
 
 Work experience
 ======
+* 2023 - Now: Associate Professor, The Chinese University of Hong Kong
+
 * 2018 - 2023: Principal Researcher, Microsoft Research Redmond
   * Led a team developing cutting-edge pre-training techniques for NLP and multimodal tasks;
   * Led a team to integrate GPT-4 to Bing’s search services to provide the knowledge base for the New Bing; compressing GPT-4/ChatGPT to reduce the model size.
