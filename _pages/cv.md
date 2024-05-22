@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Department of Automation, Tsinghua University, 2010
+* B.S. in Department of Engineering, Tsinghua University, 2010
 * Ph.D. in Computer Science, Tsinghua University, 2015
 
 Work experience
