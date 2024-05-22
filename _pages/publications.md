@@ -13,7 +13,7 @@ author_profile: true
 * Confidence is not Timeless: Modeling Temporal Validity for Rule-based Temporal Knowledge Graph Forecasting. Rikui Huang, Wei Wei, Xiaoye Qu, Shengzhe Zhang, Dangyang Chen, **Yu Cheng**. [ACL 2024](https://2024.aclweb.org/)
 * Mitigating Boundry Ambiguity and Inherent Bias for Text Classification in the Era of Large Language Models. Zhenyi Lu, Jie Tian, Wei Wei, Xiaoye Qu, **Yu Cheng**, Wenfeng Xie, Dangyang Chen. [ACL 2024](https://2024.aclweb.org/)
 * Vision-Flan: Scaling Human-Labeled Tasks in Visual Instruction Tuning. Zhiyang Xu, Chao Feng, Rulin Shao, Trevor Ashby, Ying Shen, Di Jin, **Yu Cheng**, Qifan Wang, Lifu Huang. [ACL 2024](https://2024.aclweb.org/)
-* Towards Robust Temporal Activity Localization Learning with Noisy Labels. Daizong Liu, Xiaoye Qu, Xiang Fang, Jianfeng Dong, Pan Zhou, Guoshun Nan, Keke Tang, Wanlong Fang, Yu Cheng. [LREC-COLING 2024](https://lrec-coling-2024.org/)
+* Towards Robust Temporal Activity Localization Learning with Noisy Labels. Daizong Liu, Xiaoye Qu, Xiang Fang, Jianfeng Dong, Pan Zhou, Guoshun Nan, Keke Tang, Wanlong Fang, **Yu Cheng**. [LREC-COLING 2024](https://lrec-coling-2024.org/)
 * Reinforcement Learning with Token-level Feedback for Controllable Text Generation. Wendi Li, Wei Wei, Kaihe xu, Wenfeng xie, Dangyang Chen, **Yu Cheng**. [NAACL 2024](https://2024.naacl.org/)
 * Merge, Then Compress: Demystify Efficient SMoE with Hints from Its Routing Policy. Pingzhi Li, Zhenyu Zhang, Prateek Yadav, Yi-Lin Sung, **Yu Cheng**, Mohit Bansal, Tianlong Chen. [ICLR 2024](https://iclr.cc/Conferences/2024)
 * Xinyu Zhao, Xuxi Chen, **Yu Cheng**, Tianlong Chen. Sparse MoE with Language Guided Routing for Multilingual Machine Translation. [ICLR 2024](https://iclr.cc/Conferences/2024)
