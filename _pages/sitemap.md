@@ -1,37 +1,33 @@
 ---
-layout: archive
-title: "Sitemap"
-permalink: /sitemap/
-author_profile: true
+permalink: /terms/
+title: "Academic Services "
+modified: 2023-12-09
 ---
 
-{% include base_path %}
+Area Chair
+* Senior Area Chair: ICML 2024
+* Senior Area Chair: NeurIPS 2023, 2024
+* Area Chair: NeurIPS 2021, 2022
+* Area Chair: ICLR 2024
+* Area Chair: CVPR 2022 to 2024
+* Area Chair: ACL 2024
+* Area Chair: NAACL 2024
+* Area Chair: ACMMM 2020 to 2024
+* Area Chair: EMNLP 2024
+* Senior PC: AAAI 2023 to 2024
+* Senior PC: IJCAI 2021
 
-A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
+Conference Organizer
+* Efficient Natural Language and Speech Processing Workshop at NeurIPS 2023
+* Trustworthy and Reliable Large-Scale Machine Learning Models Workshop at ICLR 2023
+* Connected Health at Big Data Era Workshop at KDD 2015
+* Local Chair of ACMMM 2020
 
-<h2>Pages</h2>
-{% for post in site.pages %}
-  {% include archive-single.html %}
-{% endfor %}
-
-<h2>Posts</h2>
-{% for post in site.posts %}
-  {% include archive-single.html %}
-{% endfor %}
-
-{% capture written_label %}'None'{% endcapture %}
-
-{% for collection in site.collections %}
-{% unless collection.output == false or collection.label == "posts" %}
-  {% capture label %}{{ collection.label }}{% endcapture %}
-  {% if label != written_label %}
-  <h2>{{ label }}</h2>
-  {% capture written_label %}{{ label }}{% endcapture %}
-  {% endif %}
-{% endunless %}
-{% for post in collection.docs %}
-  {% unless collection.output == false or collection.label == "posts" %}
-  {% include archive-single.html %}
-  {% endunless %}
-{% endfor %}
-{% endfor %}
+Journal Reviewer
+* Transactions of the Association for Computational Linguistics (TACL)
+* IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+* International Journal of Computer Vision (IJCV)
+* ACM Transactions on Knowledge Discovery from Data (TKDD)
+* IEEE Transactions on Knowledge and Data Engineering Data (TKDE)
+* IEEE Transactions on Image Processing (TIP)
+* IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
