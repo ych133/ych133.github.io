@@ -5,16 +5,16 @@ modified: 2024-06-05
 ---
 
 Ph.D Students @CUHK
-* Senior Area Chair: ICML 2024
-* Senior Area Chair: NeurIPS 2023, 2024
-* Area Chair: NeurIPS 2021, 2022
+* Tianle Li
+* Yixing Li
+* Jihai Zhang
 
 Ph.D Students @Other Universities
-* Efficient Natural Language and Speech Processing Workshop at NeurIPS 2023
-* Trustworthy and Reliable Large-Scale Machine Learning Models Workshop at ICLR 2023
-* Connected Health at Big Data Era Workshop at KDD 2015
-* Local Chair of ACMMM 2020
+* Hengxuan Xu @Tsinghua University
+* Jiayi Hou @Shanghai Jiaotong University
+* Guanjie Chen @Shanghai Jiaotong University
+* Mingyang Song @Fudan University
 
 Ph.D Students as Thesis Committee
-* Transactions of the Association for Computational Linguistics (TACL)
-* IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+* Xuxi Chen (The University of Texas at Austin)
+* Yifu Li (Zhejiang Univerisity)
