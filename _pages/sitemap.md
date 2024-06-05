@@ -1,33 +1,20 @@
 ---
-permalink: /terms/
-title: "Academic Services "
-modified: 2023-12-09
+permalink: /sitemap/
+title: "Students "
+modified: 2024-06-05
 ---
 
-Area Chair
+Ph.D Students @CUHK
 * Senior Area Chair: ICML 2024
 * Senior Area Chair: NeurIPS 2023, 2024
 * Area Chair: NeurIPS 2021, 2022
-* Area Chair: ICLR 2024
-* Area Chair: CVPR 2022 to 2024
-* Area Chair: ACL 2024
-* Area Chair: NAACL 2024
-* Area Chair: ACMMM 2020 to 2024
-* Area Chair: EMNLP 2024
-* Senior PC: AAAI 2023 to 2024
-* Senior PC: IJCAI 2021
 
-Conference Organizer
+Ph.D Students @Other Universities
 * Efficient Natural Language and Speech Processing Workshop at NeurIPS 2023
 * Trustworthy and Reliable Large-Scale Machine Learning Models Workshop at ICLR 2023
 * Connected Health at Big Data Era Workshop at KDD 2015
 * Local Chair of ACMMM 2020
 
-Journal Reviewer
+Ph.D Students as Thesis Committee
 * Transactions of the Association for Computational Linguistics (TACL)
 * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
-* International Journal of Computer Vision (IJCV)
-* ACM Transactions on Knowledge Discovery from Data (TKDD)
-* IEEE Transactions on Knowledge and Data Engineering Data (TKDE)
-* IEEE Transactions on Image Processing (TIP)
-* IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
