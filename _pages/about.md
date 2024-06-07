@@ -14,7 +14,7 @@ I serve as a Senior Area Chair for NeurIPS and ICML, Area Chair for CVPR, ICLR, 
 
 Latest News
 ======
-* Invited talk at [TTIC Summer Workshop on Multimodal Artificial Intelligence] (https://sites.google.com/view/multimodal-ai-ttic-2024/home) (June 2024).
+* Invited talk at [TTIC Summer Workshop on Multimodal Artificial Intelligence](https://sites.google.com/view/multimodal-ai-ttic-2024/home) (June 2024).
 * Serving as Senior Area Chair for NeurIPS 2024, and Area Chair for EMNLP 2024 (Apr. 2024). 
 * Our tutorial "Mixture-of-Experts in the Era of LLMs: A New Odyssey" has been accepted in ICML 2024 (Apr. 2024). 
 * Serving as Senior Area Chair for ICML 2024, Area Chair for NAACL 2024 and ACL 2024 (Jan. 2024).
