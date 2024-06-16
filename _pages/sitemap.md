@@ -5,16 +5,16 @@ modified: 2024-06-05
 ---
 
 Ph.D. Students @CUHK
-* Tianle Li
-* Yixing Li
-* Jihai Zhang
+* Tianle Li (Fall 2024)
+* Yixing Li (Fall 2024)
+* Jihai Zhang (Fall 2024)
 
 Ph.D. Students @Other Universities
-* Hengxuan Xu @Tsinghua University
-* Jiayi Hou @Shanghai Jiaotong University
-* Guanjie Chen @Shanghai Jiaotong University
-* Mingyang Song @Fudan University
+* Hengxuan Xu @Tsinghua University (Fall 2024)
+* Jiayi Hou @Shanghai Jiaotong University (Fall 2024)
+* Guanjie Chen @Shanghai Jiaotong University (Fall 2024)
+* Mingyang Song @Fudan University (Fall 2023)
 
 Ph.D. Students as Thesis Committee
-* Xuxi Chen (The University of Texas at Austin)
-* Yifu Li (Zhejiang Univerisity)
+* Xuxi Chen (The University of Texas at Austin, Spring 2022)
+* Yifu Li (Zhejiang Univerisity, Fall 2020)
