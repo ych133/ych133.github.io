@@ -10,8 +10,8 @@ Ph.D. Students @CUHK
 * Jihai Zhang (Fall 2024)
 
 Ph.D. Students @Other Universities
-* Fengbo Lan @Tsinghua University (Fall 2023)
-* Hengxuan Xu @Tsinghua University (Fall 2024)
+* Fengbo Lan @Tsinghua University (Fall 2023, Co-advised with Prof. Tao Zhang)
+* Hengxuan Xu @Tsinghua University (Fall 2024, Co-advised with Prof. Tao Zhang)
 * Jiayi Hou @Shanghai Jiaotong University (Fall 2024)
 * Guanjie Chen @Shanghai Jiaotong University (Fall 2024)
 * Mingyang Song @Fudan University (Fall 2023)
