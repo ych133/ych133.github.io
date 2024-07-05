@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 2024
+* Learning the Unlearned: Mitigating Feature Suppression in Contrastive Learning. JIHAI ZHANG, Xiang Lan, Xiaoye Qu, **Yu Cheng**, Mengling Feng, Bryan Hooi. [ECCV 2024](https://eccv.ecva.net/Conferences/2024)
+* Rethinking Weakly-supervised Video Temporal Grounding From a Game Perspective. Xiang Fang, Zeyu Xiong, Wanlong Fang, Xiaoye Qu, Chen Chen, Jianfeng Dong, Keke Tang, Pan Zhou, **Yu Cheng**. [ECCV 2024](https://eccv.ecva.net/Conferences/2024)
 * MoE-RBench: Towards Building Reliable Language Models with Sparse Mixture-of-Experts. Guanjie Chen, Xinyu Zhao, Tianlong Chen, **Yu Cheng**. [ICML 2024](https://icml.cc/Conferences/2024)
 * LIDAO: Towards Limited Interventions for Debiasing (Large) Language Models. Tianci Liu, Haoyu Wang, Shiyang Wang, **Yu Cheng**, Jing Gao. [ICML 2024](https://icml.cc/Conferences/2024)
 * Multimodal Instruction Tuning with Conditional Mixture of LoRA. Ying Shen, Zhiyang Xu, Qifan Wang, **Yu Cheng**, Wenpeng Yin, Lifu Huang. [ACL 2024](https://2024.aclweb.org/)
@@ -16,7 +18,7 @@ author_profile: true
 * Towards Robust Temporal Activity Localization Learning with Noisy Labels. Daizong Liu, Xiaoye Qu, Xiang Fang, Jianfeng Dong, Pan Zhou, Guoshun Nan, Keke Tang, Wanlong Fang, **Yu Cheng**. [LREC-COLING 2024](https://lrec-coling-2024.org/)
 * Reinforcement Learning with Token-level Feedback for Controllable Text Generation. Wendi Li, Wei Wei, Kaihe xu, Wenfeng xie, Dangyang Chen, **Yu Cheng**. [NAACL 2024](https://2024.naacl.org/)
 * Merge, Then Compress: Demystify Efficient SMoE with Hints from Its Routing Policy. Pingzhi Li, Zhenyu Zhang, Prateek Yadav, Yi-Lin Sung, **Yu Cheng**, Mohit Bansal, Tianlong Chen. [ICLR 2024](https://iclr.cc/Conferences/2024)
-* Xinyu Zhao, Xuxi Chen, **Yu Cheng**, Tianlong Chen. Sparse MoE with Language Guided Routing for Multilingual Machine Translation. [ICLR 2024](https://iclr.cc/Conferences/2024)
+* Sparse MoE with Language Guided Routing for Multilingual Machine Translation. Xinyu Zhao, Xuxi Chen, **Yu Cheng**, Tianlong Chen. [ICLR 2024](https://iclr.cc/Conferences/2024)
 * GRILL: Grounded Vision-language Pre-training via Aligning Text and Image Regions. Woojeong Jin, Subhabrata Mukherjee, **Yu Cheng**, Yelong Shen, Weizhu Chen, Ahmed Hassan Awadallah, Damien Jose, Xiang Ren. [arXiv preprint](https://arxiv.org/pdf/2305.14676.pdf)
 * CR-MoE: Consistent Routed Mixture-of-Experts for Scaling Contrastive Learning. Ziyu Jiang, Guoqing Zheng, **Yu Cheng**, Ahmed Hassan Awadallah, Zhangyang Wang. [Transactions on Machine Learning Research (TMLR)](https://jmlr.org/tmlr/)
 * Enhancing Low-Resource Relation Representations through Multi-View Decoupling. Chenghao Fan, Wei Wei, Xiaoye Qu, Zhenyi Lu, Xie Wenfeng, **Yu Cheng**. [AAAI 2024](https://aaai.org/aaai-conference/)
