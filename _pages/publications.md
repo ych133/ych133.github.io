@@ -9,6 +9,7 @@ author_profile: true
 * Timo: Towards Better Temporal Reasoning for Language Models. Zhaochen Su, Jun Zhang, Tong Zhu, Xiaoye Qu, Juntao Li, Min Zhang, **Yu Cheng**. [COLM 2024](https://colmweb.org/)
 * Learning the Unlearned: Mitigating Feature Suppression in Contrastive Learning. JIHAI ZHANG, Xiang Lan, Xiaoye Qu, **Yu Cheng**, Mengling Feng, Bryan Hooi. [ECCV 2024](https://eccv.ecva.net/Conferences/2024)
 * Rethinking Weakly-supervised Video Temporal Grounding From a Game Perspective. Xiang Fang, Zeyu Xiong, Wanlong Fang, Xiaoye Qu, Chen Chen, Jianfeng Dong, Keke Tang, Pan Zhou, **Yu Cheng**. [ECCV 2024](https://eccv.ecva.net/Conferences/2024)
+* Not All Inputs Are Valid: Towards Open-Set Video Moment Retrieval using Language. Xiang Fang, Wanlong Fang, Daizong Liu, Xiaoye Qu, Jianfeng Dong, Pan Zhou, Renfu Li, Zichuan Xu, Lixing Chen, Panpan Zheng, **Yu Cheng**. [MM 2024](https://2024.acmmm.org/)
 * MoE-RBench: Towards Building Reliable Language Models with Sparse Mixture-of-Experts. Guanjie Chen, Xinyu Zhao, Tianlong Chen, **Yu Cheng**. [ICML 2024](https://icml.cc/Conferences/2024)
 * LIDAO: Towards Limited Interventions for Debiasing (Large) Language Models. Tianci Liu, Haoyu Wang, Shiyang Wang, **Yu Cheng**, Jing Gao. [ICML 2024](https://icml.cc/Conferences/2024)
 * Multimodal Instruction Tuning with Conditional Mixture of LoRA. Ying Shen, Zhiyang Xu, Qifan Wang, **Yu Cheng**, Wenpeng Yin, Lifu Huang. [ACL 2024](https://2024.aclweb.org/)
