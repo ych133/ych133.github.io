@@ -14,6 +14,7 @@ I serve as a Senior Area Chair for NeurIPS and ICML, and Area Chair for CVPR, IC
 
 Latest News
 ======
+* I organized the [Efficient Natural Language and Speech Processing Workshop](https://neurips2024-enlsp.github.io/) at NeurIPS 2024. Please consider submitting your work to the workshop (Jul. 2024) <br>
 * Invited talk at [TTIC Summer Workshop on Multimodal Artificial Intelligence](https://sites.google.com/view/multimodal-ai-ttic-2024/home) (June 2024).
 * Serving as Senior Area Chair for NeurIPS 2024, and Area Chair for EMNLP 2024 (Apr. 2024). 
 * Our tutorial "Mixture-of-Experts in the Era of LLMs: A New Odyssey" has been accepted in ICML 2024 (Apr. 2024). 
