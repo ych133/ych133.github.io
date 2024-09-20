@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 2024
+* LLaMA-MoE: Building Mixture-of-Experts from LLaMA with Continual Pre-Training. Tong Zhu, Xiaoye Qu, Daize Dong, Jiacheng Ruan, Jingqi Tong, Conghui He, **Yu Cheng**. [EMNLP 2024](https://2024.emnlp.org/)
+* SURf: Teaching Large Vision-Language Models to Selectively Utilize Retrieved Information. Jiashuo Sun, Jihai Zhang, Yucheng Zhou, Zhaochen Su, Xiaoye Qu, **Yu Cheng**. [EMNLP 2024](https://2024.emnlp.org/)
+* On the Universal Truthfulness Hyperplane Inside LLMs. Junteng Liu, Shiqi Chen, **Yu Cheng**, Junxian He. [EMNLP 2024](https://2024.emnlp.org/)
+* MoE-I^2: Compressing Mixture of Experts Models through Inter-Expert Pruning and Intra-Expert Low-Rank Decomposition. Cheng Yang, Yang Sui, Jinqi Xiao, Lingyi Huang, Yu Gong, Yuanlin Duan, Wenqi Jia, Miao Yin, **Yu Cheng**, Bo Yuan. [EMNLP 2024](https://2024.emnlp.org/)
 * Timo: Towards Better Temporal Reasoning for Language Models. Zhaochen Su, Jun Zhang, Tong Zhu, Xiaoye Qu, Juntao Li, Min Zhang, **Yu Cheng**. [COLM 2024](https://colmweb.org/)
 * Learning the Unlearned: Mitigating Feature Suppression in Contrastive Learning. JIHAI ZHANG, Xiang Lan, Xiaoye Qu, **Yu Cheng**, Mengling Feng, Bryan Hooi. [ECCV 2024](https://eccv.ecva.net/Conferences/2024)
 * Rethinking Weakly-supervised Video Temporal Grounding From a Game Perspective. Xiang Fang, Zeyu Xiong, Wanlong Fang, Xiaoye Qu, Chen Chen, Jianfeng Dong, Keke Tang, Pan Zhou, **Yu Cheng**. [ECCV 2024](https://eccv.ecva.net/Conferences/2024)
