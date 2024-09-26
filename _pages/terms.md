@@ -18,7 +18,7 @@ Area Chair
 * Senior PC: IJCAI 2021
 
 Conference Organizer
-* Efficient Natural Language and Speech Processing Workshop at NeurIPS 2023
+* Efficient Natural Language and Speech Processing Workshop at NeurIPS 2023, 2024
 * Trustworthy and Reliable Large-Scale Machine Learning Models Workshop at ICLR 2023
 * Connected Health at Big Data Era Workshop at KDD 2015
 * Local Chair of ACMMM 2020
