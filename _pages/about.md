@@ -14,7 +14,8 @@ I serve as a Senior Area Chair for NeurIPS and ICML, and Area Chair for CVPR, IC
 
 Latest News
 ======
-* <p style="color:red;">I am seeking 1-2 postdocs to join my research team at CUHK. Please drop me an email if you are interested in the position </p>
+* <p style="color:red;">I am seeking two postdocs to join my research team at CUHK. Please drop me an email if you are interested in the position </p>
+* Serving as Area Chair for CVPR 2025, NAACL 2025, and ICLR 2025 (Apr. 2024). 
 * I organized the [Efficient Natural Language and Speech Processing Workshop](https://neurips2024-enlsp.github.io/) at NeurIPS 2024. Please consider submitting your work to the workshop (Jul. 2024) <br>
 * Invited talk at [TTIC Summer Workshop on Multimodal Artificial Intelligence](https://sites.google.com/view/multimodal-ai-ttic-2024/home) (June 2024).
 * Serving as Senior Area Chair for NeurIPS 2024, and Area Chair for EMNLP 2024 (Apr. 2024). 
@@ -31,4 +32,3 @@ Latest News
 * Invited talk at [Fudan University](https://mp.weixin.qq.com/s/OOIV_Byo6_3g8qLVtFEPpA) (Dec. 2022)<br>
 * Invited talk [Hardware and Algorithms for Learning On-a-chip Workshop](https://sites.google.com/rice.edu/iccad-halo-2022/schedule?authuser=0) at ICCAD 2022 (Nov. 2022) <br>
 * Invited talk [Learning with Limited and Imperfect Data Workshop](https://eccv2022.ecva.net/program/workshop-schedule/) at ECCV 2022 (Oct. 2022) <br>
-* Serving as Area Chair for CVPR 2023, WACV 2023, and ACMMM 2023 (Sep. 2022) <br>
