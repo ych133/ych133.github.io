@@ -5,8 +5,8 @@ modified: 2024-06-05
 ---
 
 Ph.D. Students @CUHK
-* Tianle Li (Fall 2024-, BS,HKUST, MS,U of Waterloo)
-* Jihai Zhang (Fall 2024-, BS,Shanghai Jiaotong Univ, MS,Univ of Waterloo)
+* Tianle Li (Fall 2024-, BS,HKUST, MS,Univ of Waterloo)
+* Jihai Zhang (Fall 2024-, BS,Shanghai Jiaotong Univ, MS,NUS)
 * Yixing Li (Winter 2025-, BS,Shanghai Jiaotong Univ)
 
 Ph.D. Students @Other Universities
