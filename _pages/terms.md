@@ -5,13 +5,13 @@ modified: 2023-12-09
 ---
 
 Area Chair
-* Senior Area Chair: ICML 2024
+* Senior Area Chair: ICML 2024, 2025
 * Senior Area Chair: NeurIPS 2023, 2024
 * Area Chair: NeurIPS 2021, 2022
 * Area Chair: ICLR 2024, 2025
 * Area Chair: CVPR 2022 to 2025
 * Area Chair: ACL 2024
-* Area Chair: NAACL 2024
+* Area Chair: NAACL 2024, 2025
 * Area Chair: ACMMM 2020 to 2024
 * Area Chair: EMNLP 2024
 * Senior PC: AAAI 2023 to 2024
