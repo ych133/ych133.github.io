@@ -10,11 +10,11 @@ Ph.D. Students @CUHK
 * Yixing Li (Winter 2025-, BS,Shanghai Jiaotong Univ)
 
 Ph.D. Students @Other Universities
-* Fengbo Lan @Tsinghua University (Fall 2023-, BS,SCUT)
+* Fengbo Lan @Tsinghua University (Fall 2022-, BS,SCUT)
+* Mingyang Song @Fudan University (Fall 2023-, BS,HIT) 
 * Hengxuan Xu @Tsinghua University (Fall 2024-, BS,Tsinghua Univ)
 * Jiayi Hou @Shanghai Jiaotong University (Fall 2024-, BS,Tsinghua Univ)
 * Guanjie Chen @Shanghai Jiaotong University (Fall 2024-, BS,Nanjing Univ)
-* Mingyang Song @Fudan University (Fall 2023-, BS,HIT) 
 
 Ph.D. Students as Thesis Committee
 * Xuxi Chen (The University of Texas at Austin, Spring 2022)
