@@ -14,7 +14,7 @@ I serve as a Senior Area Chair for NeurIPS and ICML and as an Area Chair for CVP
 
 Latest News
 ======
-* <p style="color:red;">I am seeking two postdocs to join my research team at CUHK. Please drop me an email if you are interested in the position </p>
+* Serving as Action Editor for Transactions on Machine Learning Research (TMLR) (Nov. 2024).
 * Serving as Senior Area Chair ICML 2025 and NAACL 2025, Area Chair for CVPR 2025 and ICLR 2025 (Oct. 2024). 
 * "DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models" is the winner of the 2024 Cybersecurity Best Paper Award (Sep. 2024). 
 * I organized the [Efficient Natural Language and Speech Processing Workshop](https://neurips2024-enlsp.github.io/) at NeurIPS 2024. Please consider submitting your work to the workshop (Jul. 2024) <br>
