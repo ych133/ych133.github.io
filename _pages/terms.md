@@ -3,7 +3,9 @@ permalink: /terms/
 title: "Academic Services "
 modified: 2023-12-09
 ---
-
+Journal Editor
+* Transactions on Machine Learning Research (TMLR)
+  
 Area Chair
 * Senior Area Chair: ICML 2024, 2025
 * Senior Area Chair: NeurIPS 2023, 2024
