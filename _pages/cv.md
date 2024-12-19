@@ -34,7 +34,9 @@ Work experience
   
 Awards and honors
 ======
-* 2024: **Best Machine Learning and Security Paper** in Cybersecurity Award 2024
+* 2024: **IEEE SPS Young Author Best Paper Award** 
+* 2024: **Best Scientific Cybersecurity Paper** by the National Security Agency
+* 2024: **Best Machine Learning and Security Paper** in Cybersecurity Award
 * 2023: **Outstanding Datasets and Benchmarks Paper** in NeurIPS 2023
 * 2021: **Best Student Paper Honourable Mention** in WACV 2021
 * 2020: Third place in the VQA Challenge 2020
