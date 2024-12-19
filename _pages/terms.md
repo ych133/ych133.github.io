@@ -12,12 +12,12 @@ Area Chair
 * Area Chair: NeurIPS 2021, 2022
 * Area Chair: ICLR 2024, 2025
 * Area Chair: CVPR 2022 to 2025
-* Area Chair: ACL 2024
+* Area Chair: ACL 2024, 2025
 * Area Chair: NAACL 2024, 2025
 * Area Chair: ACMMM 2020 to 2024
 * Area Chair: EMNLP 2024
+* Area Chair: IJCAI 2021, 2025
 * Senior PC: AAAI 2023 to 2024
-* Senior PC: IJCAI 2021
 
 Conference Organizer
 * Efficient Natural Language and Speech Processing Workshop at NeurIPS 2023, 2024
