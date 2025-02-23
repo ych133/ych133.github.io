@@ -14,11 +14,11 @@ I serve as a Senior Area Chair for NeurIPS and ICML and as an Area Chair for CVP
 
 Latest News
 ======
+* Serving as Senior Area Chair for NeurIPS 2025 and ACM MM 2025. (Feb. 2025).
 * Invited talk at [ICLR 2025 Workshop on Scalable Optimization for Efficient and Adaptive Foundation Models](https://scope-workshop.github.io/) (Dec. 2022) <br>
 * Our papers DecodingTrust is awarded **Best Scientific Cybersecurity Paper** of 2024 by the National Security Agency and EnlightenGAN is awarded **IEEE SPS Young Author Best Paper Award** (Dec. 2022) <br>
 * Serving as Action Editor for Transactions on Machine Learning Research (TMLR), and Area Chair for IJCAI 2025 and ACL 2025. (Nov. 2024).
-* Serving as Senior Area Chair ICML 2025, Area Chair for CVPR 2025, NAACL 2025, and ICLR 2025 (Oct. 2024). 
-* Our paper DecodingTrust is awarded the 2024 Cybersecurity Best Paper Award (Sep. 2024). 
+* Serving as Action Editor for Transactions on Machine Learning Research (TMLR), and Area Chair for IJCAI 2025 and ACL 2025. (Nov. 2024).* Our paper DecodingTrust is awarded the 2024 Cybersecurity Best Paper Award (Sep. 2024). 
 * I organized the [Efficient Natural Language and Speech Processing Workshop](https://neurips2024-enlsp.github.io/) at NeurIPS 2024. Please consider submitting your work to the workshop (Jul. 2024) <br>
 * Invited talk at [TTIC Summer Workshop on Multimodal Artificial Intelligence](https://sites.google.com/view/multimodal-ai-ttic-2024/home) (June 2024).
 * Serving as Senior Area Chair for NeurIPS 2024, and Area Chair for EMNLP 2024 (Apr. 2024). 
