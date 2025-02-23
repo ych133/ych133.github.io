@@ -4,6 +4,11 @@ title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
+2025
+* Weak to Strong Generalization for Large Language Models with Multi-capabilities. Yucheng Zhou, Jianbing Shen, **Yu Cheng**. [ICLR 2022](https://iclr.cc/Conferences/2025)
+* Modality-Specialized Synergizers for Interleaved Vision-Language Generalists. Zhiyang Xu, Minqian Liu, Ying Shen, Joy Rimchala, Jiaxin Zhang, Qifan Wang, **Yu Cheng**, Lifu Huang. [ICLR 2022](https://iclr.cc/Conferences/2025)
+* Dynamic Data Mixing Maximizes Instruction Tuning for Mixture-of-Experts. Tong Zhu, Daize Dong, Xiaoye Qu, Jiacheng Ruan, Wenliang Chen, **Yu Cheng**. [NAACL 2025](https://2025.naacl.org/)
+* Continuous Speech Tokenizer in Text-to-speech. Yixing Li, Ruobing Xie, Xingwu Sun, **Yu Cheng**, Zhanhui Kang. [NAACL 2025](https://2025.naacl.org/)
 
 2024
 * Conflictbank: A Benchmark for Evaluating the Influence of Knowledge Conflicts in LLM. Zhaochen Su, Jun Zhang, Xiaoye Qu, Tong Zhu, Yanshu Li, Jiashuo Sun, Juntao Li, Min Zhang, **Yu Cheng**. [NeurIPS 2024](https://nips.cc/)
