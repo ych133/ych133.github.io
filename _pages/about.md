@@ -15,14 +15,13 @@ I serve as a Senior Area Chair for NeurIPS and ICML and as an Area Chair for CVP
 Latest News
 ======
 * Serving as Senior Area Chair for NeurIPS 2025 and ACM MM 2025. (Feb. 2025)
-* Invited talk at [ICLR 2025 Workshop on Scalable Optimization for Efficient and Adaptive Foundation Models](https://scope-workshop.github.io/). (Dec. 2022) <br>
-* Our papers DecodingTrust is awarded **Best Scientific Cybersecurity Paper** of 2024 by the National Security Agency and EnlightenGAN is awarded **IEEE SPS Young Author Best Paper Award**. (Dec. 2022) <br>
-* Serving as Action Editor for Transactions on Machine Learning Research (TMLR), and Area Chair for IJCAI 2025 and ACL 2025. (Nov. 2024) <br>
-* Our paper DecodingTrust is awarded the 2024 Cybersecurity Best Paper Award. (Sep. 2024) <br>
-* I organized the [Efficient Natural Language and Speech Processing Workshop](https://neurips2024-enlsp.github.io/) at NeurIPS 2024. Please consider submitting your work to the workshop. (Jul. 2024) <br>
-* Invited talk at [TTIC Summer Workshop on Multimodal Artificial Intelligence](https://sites.google.com/view/multimodal-ai-ttic-2024/home). (June 2024).
+* Invited talk at [ICLR 2025 Workshop on Scalable Optimization for Efficient and Adaptive Foundation Models](https://scope-workshop.github.io/). (Dec. 2022)
+* Our papers DecodingTrust is awarded **Best Scientific Cybersecurity Paper** of 2024 by the National Security Agency and EnlightenGAN is awarded **IEEE SPS Young Author Best Paper Award**. (Dec. 2022)
+* Serving as Action Editor for Transactions on Machine Learning Research (TMLR), and Area Chair for IJCAI 2025 and ACL 2025. (Nov. 2024)
+* Our paper DecodingTrust is awarded the 2024 Cybersecurity Best Paper Award. (Sep. 2024)
+* I organized the [Efficient Natural Language and Speech Processing Workshop](https://neurips2024-enlsp.github.io/) at NeurIPS 2024. Please consider submitting your work to the workshop. (Jul. 2024)
+* Invited talk at [TTIC Summer Workshop on Multimodal Artificial Intelligence](https://sites.google.com/view/multimodal-ai-ttic-2024/home). (June 2024)
 * Serving as Senior Area Chair for NeurIPS 2024, and Area Chair for EMNLP 2024. (Apr. 2024)
-* Our tutorial "Mixture-of-Experts in the Era of LLMs: A New Odyssey" has been accepted in ICML 2024. (Apr. 2024)
 * Serving as Senior Area Chair for ICML 2024, Area Chair for NAACL 2024 and ACL 2024. (Jan. 2024)
 * Invited talk at Tencent about Mixture of Experts in Large Language Models. (Jan. 2024)
 * Our work "DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models" has won the [**Outstanding Paper Award**](https://blog.neurips.cc/2023/12/11/announcing-the-neurips-2023-paper-awards/) in NeurIPS 2023 (Dec. 2023) <br>
