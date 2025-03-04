@@ -17,5 +17,6 @@ Ph.D. Students @Other Universities
 * Guanjie Chen @Shanghai Jiaotong University (Fall 2024-, BS,Nanjing Univ)
 
 Ph.D. Students as Thesis Committee
+* Zhihao Yuan (CUHK-Shenzhen, Fall 2022)
 * Xuxi Chen (The University of Texas at Austin, Spring 2022)
 * Yifu Li (Zhejiang Univerisity, Fall 2020)
