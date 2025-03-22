@@ -10,7 +10,7 @@ Ph.D. Students @CUHK
 * Yixing Li (Winter 2025-, BS,Shanghai Jiaotong Univ)
 
 Ph.D. Students @Other Universities
-* Fengbo Lan @Tsinghua University (Fall 2022-, BS,SCUT)
+* Fengbo Lan @Tsinghua University (Fall 2023-, BS,SCUT)
 * Mingyang Song @Fudan University (Fall 2023-, BS,HIT) 
 * Hengxuan Xu @Tsinghua University (Fall 2024-, BS,Tsinghua Univ)
 * Jiayi Hou @Shanghai Jiaotong University (Fall 2024-, BS,Tsinghua Univ)
