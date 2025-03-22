@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Department of Engineering, Tsinghua University, 2010
-* Ph.D. in Computer Science, Tsinghua University, 2015
+* Ph.D. in Computer Science, Northwestern University, 2015
 
 Work experience
 ======
@@ -26,10 +26,10 @@ Work experience
   * Developed model compression techniques and applied them to image classification/object detection models in IBM Watson services;
   * Led a team to develop deep generative models (GAN, VAE) based techniques, many of which have been productized to IBM products.
 
-* 2023 - Now: Visiting Professor, Rice University
+* 2023 - 2024: Visiting Professor, Rice University
   * Teaching the graduate course “Special Topics in Deep Learning”
 
-* 2018 - Now: Visiting Professor, Renmin University of China
+* 2018 - 2024: Visiting Professor, Renmin University of China
   * Teaching the graduate course “Advanced Deep Learning”
   
 Awards and honors
