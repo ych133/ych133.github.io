@@ -26,6 +26,7 @@ Ph.D. Students @Other Universities
 * Yuzhuo Hao @Zhejiang University (Fall 2025-,BS,UESTC)
 * Zhilin Wang @University of Science and Technology of China (Fall 2025,BS,Jilin University)
 * Haoyu Sun @Tongji University (Fall 2025,BS,UESTC)
+* Qianjia Cheng @Zhejiang University (Fall 2025,BS,Beihang University)
 
 Ph.D. Students as Thesis Committee
 * Zhihao Yuan (CUHK-Shenzhen, Fall 2022)
