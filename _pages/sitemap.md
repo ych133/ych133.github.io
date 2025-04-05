@@ -8,6 +8,8 @@ Ph.D. Students @CUHK
 * Tianle Li (Fall 2024-, BS,HKUST, MS,Univ of Waterloo)
 * Jihai Zhang (Fall 2024-, BS,Shanghai Jiaotong Univ, MS,NUS)
 * Yixing Li (Winter 2025-, BS,Shanghai Jiaotong Univ)
+* Han Song (Fall 2025-, BS,Tsinghua Univ)
+* Puyi Wang (Fall 2025-, BS,Shanghai Jiaotong Univ)
 
 Ph.D. Students @Other Universities
 * Fengbo Lan @Tsinghua University (Fall 2023-, BS,SCUT)
