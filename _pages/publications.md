@@ -5,6 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 2025
+* Can MLLMs Reason in Multimodality? EMMA: An Enhanced MultiModal ReAsoning Benchmark. Yunzhuo Hao, Jiawei Gu, Huichen Will Wang, Linjie Li, Zhengyuan Yang, Lijuan Wang, **Yu Cheng**.[ICML 2025](https://icml.cc/Conferences/2025)
+* Test-Time Preference Optimization: On-the-Fly Alignment via Iterative Textual Feedback. Yafu Li, Xuyang Hu, Xiaoye Qu, Linjie Li, **Yu Cheng**.[ICML 2025](https://icml.cc/Conferences/2025)
+* Liger: Linearizing Large Language Models to Gated Recurrent Structures. Disen Lan, Weigao Sun, Jiaxi Hu, Jusen Du, **Yu Cheng**. [ICML 2025](https://icml.cc/Conferences/2025)
+* Towards World Simulator: Crafting Physical Commonsense-Based Benchmark for Video Generation. Fanqing Meng, Jiaqi Liao, Xinyu Tan, Wenqi Shao, Quanfeng Lu, Kaipeng Zhang, **Yu Cheng**, Dianqi Li, Ping Luo. [ICML 2025](https://icml.cc/Conferences/2025)
+* Diving into Self-Evolve Training for Multimodal Reasoning. Wei Liu, Junlong Li, Xiwen Zhang, Fan Zhou, **Yu Cheng**, Junxian He. [ICML 2025](https://icml.cc/Conferences/2025)
+* Occult: Optimizing Collaborative Communications across Experts for Accelerated Parallel MoE Training and Inference. Shuqing Luo, Pingzhi Li, Jie Peng, Yang Zhao, Yu Cao, **Yu Cheng**, Tianlong Chen. [ICML 2025](https://icml.cc/Conferences/2025)
+* Divide and Conquer: Grounding LLMs as Efficient Decision-Making Agents via Offline Hierarchical Reinforcement Learning. Zican Hu, Wei Liu, Xiaoye Qu, Xiangyu Yue, Chunlin Chen, Zhi Wang, **Yu Cheng**. [ICML 2025](https://icml.cc/Conferences/2025)
+* Make LoRA Great Again: Boosting LoRA with Adaptive Singular Values and Mixture-of-Experts Optimization Alignment. Chenghao Fan, Zhenyi Lu, Sichen Liu, Xiaoye Qu, Wei Wei, Chengfeng Gu, **Yu Cheng**. [ICML 2025](https://icml.cc/Conferences/2025)
+* Scaling Laws for Floating–Point Quantization Training. Xingwu Sun, Shuaipeng Li, Ruobing Xie, Weidong Han, Kan Wu, Zhen Yang, Yixing Li, An Wang, SHUAI LI, Jinbao Xue, **Yu Cheng**, Yangyu Tao, Zhanhui Kang, Cheng-zhong Xu, Di Wang, Jie Jiang.[ICML 2025](https://icml.cc/Conferences/2025)
 * Extrapolating and Decoupling Image-to-Video Generation Models: Motion Modeling is Easier Than You Think. Jie Tian, Xiaoye Qu, Zhenyi Lu, Wei Wei, Sichen Liu, **Yu Cheng**. [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025)
 * From Head to Tail: Towards Balanced Representation in Large Vision-Language Models through Adaptive Data Calibration. Mingyang Song, Xiaoye Qu, Jiawei Zhou, **Yu Cheng**. [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025)
 * Weak to Strong Generalization for Large Language Models with Multi-capabilities. Yucheng Zhou, Jianbing Shen, **Yu Cheng**. [ICLR 2025](https://iclr.cc/Conferences/2025)
