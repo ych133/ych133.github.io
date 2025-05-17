@@ -15,6 +15,11 @@ author_profile: true
 * Make LoRA Great Again: Boosting LoRA with Adaptive Singular Values and Mixture-of-Experts Optimization Alignment. Chenghao Fan, Zhenyi Lu, Sichen Liu, Xiaoye Qu, Wei Wei, Chengfeng Gu, **Yu Cheng**. [ICML 2025](https://icml.cc/Conferences/2025)
 * Scaling Laws for Floating–Point Quantization Training. Xingwu Sun, Shuaipeng Li, Ruobing Xie, Weidong Han, Kan Wu, Zhen Yang, Yixing Li, An Wang, SHUAI LI, Jinbao Xue, **Yu Cheng**, Yangyu Tao, Zhanhui Kang, Cheng-zhong Xu, Di Wang, Jie Jiang. 
 [ICML 2025](https://icml.cc/Conferences/2025)
+* PRMBench: A Fine-grained and Challenging Benchmark for Process-Level Reward Models. Mingyang Song, Zhaochen Su, Xiaoye Qu, Jiawei Zhou, **Yu Cheng**. [ACL 2025](https://2025.aclweb.org/)
+* Unveiling Attractor Cycles in Large Language Models: A Dynamical Systems View of Successive Paraphrasing. Zhilin Wang, Yafu Li, Jianhao Yan, **Yu Cheng**, Yue Zhang. [ACL 2025](https://2025.aclweb.org/)
+* SEE: Continual Fine-tuning with Sequential Ensemble of Experts. Zhilin Wang, Yafu Li, Xiaoye Qu, **Yu Cheng**. [ACL 2025](https://2025.aclweb.org/)
+* Mom: Linear sequence modeling with mixture-of-memories. Jusen Du, Weigao Sun, Disen Lan, Jiaxi Hu, **Yu Cheng**. [ACL 2025](https://2025.aclweb.org/)
+* Cooperative or Competitive? Understanding the Interaction between Attention Heads From A Game Theory Perspective. Xiaoye Qu, Zengqi Yu, Dongrui Liu, Wei Wei, Daizong Liu, Jianfeng Dong, **Yu Cheng**. [ACL 2025](https://2025.aclweb.org/)
 * Extrapolating and Decoupling Image-to-Video Generation Models: Motion Modeling is Easier Than You Think. Jie Tian, Xiaoye Qu, Zhenyi Lu, Wei Wei, Sichen Liu, **Yu Cheng**. [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025)
 * From Head to Tail: Towards Balanced Representation in Large Vision-Language Models through Adaptive Data Calibration. Mingyang Song, Xiaoye Qu, Jiawei Zhou, **Yu Cheng**. [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025)
 * Weak to Strong Generalization for Large Language Models with Multi-capabilities. Yucheng Zhou, Jianbing Shen, **Yu Cheng**. [ICLR 2025](https://iclr.cc/Conferences/2025)
