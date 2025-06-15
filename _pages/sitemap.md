@@ -3,6 +3,9 @@ permalink: /sitemap/
 title: "Students "
 modified: 2024-06-05
 ---
+Postdoc @CUHK
+* Zhengwei Tao (Ph.D. from Peking University, Starting from Fall 2025)
+* Yafu Li (Ph.D. from Zhejiang University, Starting from Fall 2025)
 
 Ph.D. Students @CUHK
 * Tianle Li (Fall 2024-,BS,HKUST, MS,Univ of Waterloo)
