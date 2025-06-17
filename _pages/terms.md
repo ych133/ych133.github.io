@@ -5,6 +5,7 @@ modified: 2023-12-09
 ---
 Journal Editor
 * Transactions on Machine Learning Research (TMLR)
+* ACM Transactions on Intelligent Systems and Technology (TIST)
   
 Area Chair
 * Senior Area Chair: ICML 2024, 2025
@@ -14,8 +15,8 @@ Area Chair
 * Area Chair: CVPR 2022 to 2025
 * Area Chair: ACL 2024, 2025
 * Area Chair: NAACL 2024, 2025
-* Area Chair: ACMMM 2020 to 2024
-* Area Chair: EMNLP 2024
+* Area Chair: ACMMM 2020 to 2025
+* Area Chair: EMNLP 2024, 2025
 * Area Chair: IJCAI 2021, 2025
 
 Conference Organizer
