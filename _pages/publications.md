@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 2025
+* Towards Stabilized and Efficient Diffusion Transformers through Long-Skip-Connections with Spectral Constraints. Guanjie Chen, Xinyu Zhao, Yucheng Zhou, Xiaoye Qu, Tianlong Chen, **Yu Cheng**. [ICCV 2025](https://iccv.thecvf.com/)
+* ImageGen-CoT: Enhancing Text-to-Image In-context Learning with Chain-of-Thought Reasoning. Jiaqi Liao, Zhengyuan Yang, Linjie Li, Dianqi Li, Kevin Lin, **Yu Cheng**, Lijuan Wang. [ICCV 2025 (https://iccv.thecvf.com/)
+* LangBridge: Interpreting Image as a Combination of Language Embeddings. Jiaqi Liao, Yuwei Niu, Fanqing Meng, Hao Li, Changyao Tian, Yinuo Du, Yuwen Xiong, Dianqi Li, Xizhou Zhu, Li Yuan, Jifeng Dai, **Yu Cheng**. [ICCV 2025] (https://iccv.thecvf.com/)
 * Can MLLMs Reason in Multimodality? EMMA: An Enhanced MultiModal ReAsoning Benchmark. Yunzhuo Hao, Jiawei Gu, Huichen Will Wang, Linjie Li, Zhengyuan Yang, Lijuan Wang, **Yu Cheng**. [ICML 2025](https://icml.cc/Conferences/2025)
 * Test-Time Preference Optimization: On-the-Fly Alignment via Iterative Textual Feedback. Yafu Li, Xuyang Hu, Xiaoye Qu, Linjie Li, **Yu Cheng**. [ICML 2025](https://icml.cc/Conferences/2025)
 * Liger: Linearizing Large Language Models to Gated Recurrent Structures. Disen Lan, Weigao Sun, Jiaxi Hu, Jusen Du, **Yu Cheng**. [ICML 2025](https://icml.cc/Conferences/2025)
