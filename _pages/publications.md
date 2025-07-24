@@ -31,6 +31,7 @@ author_profile: true
 * Look, Compare, Decide: Alleviating Hallucination in Large Vision-Language Models via Multi-View Multi-Path Reasoning. Xiaoye Qu, Jiashuo Sun, Wei Wei, Daizong Liu, Jianfeng Dong, **Yu Cheng**. [COLING 2025](https://coling2025.org/)
 * Cryo-EM reveals mechanisms of natural RNA multivalency. Liu Wang, Jiahao Xie, Tao Gong, Hao Wu, Yifan Tu, Xin Peng, Sitong Shang, Xinyu Jia, Haiyun Ma, Jian Zou, Sheng Xu, Xin Zheng, Dong Zhang, Yang Liu, Chong Zhang, Yongbo Luo, Zirui Huang, Bin Shao, Binwu Ying, **Yu Cheng**, Yingqiang Guo, Ying Lai, Dingming Huang, Jianquan Liu, Yuquan Wei, Siqi Sun, Xuedong Zhou, Zhaoming Su. [Science](https://www.science.org/)
 * A Survey of Reasoning with Foundation Models: Concepts, Methodologies, and Outlook. Jiankai Sun, Chuanyang Zheng, Enze Xie, et al. **Yu Cheng**. [ACM Computing Surveys](https://dl.acm.org/journal/csur)
+* A Survey of Attacks on Large Vision Language Models: Resources, Advances, and Future Trends. Daizong Liu, Mingyu Yang, Xiaoye Qu, Pan Zhou, **Yu Cheng**, Wei Hu. [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
 
 2024
 * Conflictbank: A Benchmark for Evaluating the Influence of Knowledge Conflicts in LLM. Zhaochen Su, Jun Zhang, Xiaoye Qu, Tong Zhu, Yanshu Li, Jiashuo Sun, Juntao Li, Min Zhang, **Yu Cheng**. [NeurIPS 2024](https://nips.cc/)
