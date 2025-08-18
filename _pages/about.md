@@ -14,7 +14,7 @@ I serve as a Senior Area Chair for NeurIPS and ICML and as an Area Chair for CVP
 
 Latest News
 ======
-* Serving as Area Chair for ICLR 2026 and CVPR 2026. (August 2025)
+* Serving as Area Chair for ICLR 2026, AAAI 2026, and CVPR 2026. (August 2025)
 * Invited talk at [NeurIPS 2025 Workshop on Lock-LLM: Prevent Unauthorized Knowledge Use from Large Language Models](https://lock-llm.github.io/) and [NeurIPS 2025 Workshop on Multimodal Algorithmic Reasoning](https://marworkshop.github.io/neurips25/). (July 2025)
 * Serving as the Associate Editor of ACM Transactions on Intelligent Systems and Technology (TIST), Senior Area Chair for NeurIPS 2025, and ACM MM 2025. (June 2025)
 * Invited talk at [ICLR 2025 Workshop on Scalable Optimization for Efficient and Adaptive Foundation Models](https://scope-workshop.github.io/). (Jan. 2025)
