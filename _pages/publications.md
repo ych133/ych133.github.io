@@ -5,11 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 2025
-* CLIP-MoE: Towards Building Mixture of Experts for CLIP with Diversified Multiplet Upcycling. Jihai Zhang, Xiaoye Qu, Tong Zhu, **Yu Cheng**. [EMNLP 20245](https://2025.emnlp.org/)
-* Bit-Flip Error Resilience in LLMs: A Comprehensive Analysis and Defense Framework. Yuhang Chen, Zhen Tan, AJAY KUMAR JAISWAL, Huaizhi Qu, Xinyu Zhao, Qi Lin, **Yu Cheng**, Andrew Kwong, Zhichao Cao, Tianlong Chen. [EMNLP 20245](https://2025.emnlp.org/)
-* UltraIF: Advancing Instruction Following from the Wild. Kaikai, Li Sheng, Ganqu Cui, Shuzheng Si, Ning Ding, **Yu Cheng**, Baobao Chang. [EMNLP 20245](https://2025.emnlp.org/)
-* Dropping Experts, Recombining Neurons: Retraining-Free Pruning for Sparse Mixture-of-Experts LLMs. Yixiao Zhou, Ziyu Zhao, Dongzhou Cheng, Zhiliang Wu, Jie Gui, Yi Yang, Fei Wu, **Yu Cheng**, Hehe Fan. [EMNLP 20245](https://2025.emnlp.org/)
-* Grounded-VideoLLM: Sharpening Fine-grained Temporal Grounding in Video Large Language Models. Haibo Wang, Zhiyang Xu, **Yu Cheng**, Shizhe Diao, Yufan Zhou, Yixin Cao, Qifan Wang, Weifeng Ge, Lifu Huang. [EMNLP 20245](https://2025.emnlp.org/)
+* CLIP-MoE: Towards Building Mixture of Experts for CLIP with Diversified Multiplet Upcycling. Jihai Zhang, Xiaoye Qu, Tong Zhu, **Yu Cheng**. [EMNLP 2025](https://2025.emnlp.org/)
+* Bit-Flip Error Resilience in LLMs: A Comprehensive Analysis and Defense Framework. Yuhang Chen, Zhen Tan, AJAY KUMAR JAISWAL, Huaizhi Qu, Xinyu Zhao, Qi Lin, **Yu Cheng**, Andrew Kwong, Zhichao Cao, Tianlong Chen. [EMNLP 2025](https://2025.emnlp.org/)
+* UltraIF: Advancing Instruction Following from the Wild. Kaikai, Li Sheng, Ganqu Cui, Shuzheng Si, Ning Ding, **Yu Cheng**, Baobao Chang. [EMNLP 2025](https://2025.emnlp.org/)
+* Dropping Experts, Recombining Neurons: Retraining-Free Pruning for Sparse Mixture-of-Experts LLMs. Yixiao Zhou, Ziyu Zhao, Dongzhou Cheng, Zhiliang Wu, Jie Gui, Yi Yang, Fei Wu, **Yu Cheng**, Hehe Fan. [EMNLP 2025](https://2025.emnlp.org/)
+* Grounded-VideoLLM: Sharpening Fine-grained Temporal Grounding in Video Large Language Models. Haibo Wang, Zhiyang Xu, **Yu Cheng**, Shizhe Diao, Yufan Zhou, Yixin Cao, Qifan Wang, Weifeng Ge, Lifu Huang. [EMNLP 2025](https://2025.emnlp.org/)
 * Towards Stabilized and Efficient Diffusion Transformers through Long-Skip-Connections with Spectral Constraints. Guanjie Chen, Xinyu Zhao, Yucheng Zhou, Xiaoye Qu, Tianlong Chen, **Yu Cheng**. [ICCV 2025](https://iccv.thecvf.com/)
 * ImageGen-CoT: Enhancing Text-to-Image In-context Learning with Chain-of-Thought Reasoning. Jiaqi Liao, Zhengyuan Yang, Linjie Li, Dianqi Li, Kevin Lin, **Yu Cheng**, Lijuan Wang. [ICCV 2025](https://iccv.thecvf.com/)
 * LangBridge: Interpreting Image as a Combination of Language Embeddings. Jiaqi Liao, Yuwei Niu, Fanqing Meng, Hao Li, Changyao Tian, Yinuo Du, Yuwen Xiong, Dianqi Li, Xizhou Zhu, Li Yuan, Jifeng Dai, **Yu Cheng**. [ICCV 2025](https://iccv.thecvf.com/)
