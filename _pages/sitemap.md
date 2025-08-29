@@ -4,7 +4,6 @@ title: "Students "
 modified: 2024-06-05
 ---
 Postdoc @CUHK
-* Zhengwei Tao (Ph.D. from Peking University, Starting from Fall 2025)
 * Yafu Li (Ph.D. from Zhejiang University, Starting from Fall 2025)
 
 Ph.D. Students @CUHK
@@ -16,12 +15,14 @@ Ph.D. Students @CUHK
 * Jiacheng Chen (Fall 2025-,BS,South China University of Technology)
 
 Ph.D. Students @Other Universities
-* Fengbo Lan @Tsinghua University (Fall 2023-,BS,South China University of Technology)
-* Mingyang Song @Fudan University (Fall 2023-,BS,Harbin Institute of Technology) 
+* Fengbo Lan @Tsinghua University (Fall 2022-,BS,South China University of Technology)
+* Kaipeng Zhang @Peking University (Fall 2023-,BS,Peking University)
+* Mingyang Song @Fudan University (Fall 2023-,BS,Harbin Institute of Technology)
 * Hengxuan Xu @Tsinghua University (Fall 2024-,BS,Tsinghua University)
 * Jiayi Hou @Shanghai Jiaotong University (Fall 2024-,BS,Tsinghua University)
 * Guanjie Chen @Shanghai Jiaotong University (Fall 2024-,BS,Nanjing University)
 * Jusen Du @Tsinghua University (Fall 2025-,BS,Nanjing University)
+* Yuchen Zhang @Peking University (Fall 2025-,BS,UESTC)
 * Yuhao Wang @Shanghai Jiaotong University (Fall 2025-,BS,Shanghai Jiaotong University)
 * Xiangdong Zhang @Shanghai Jiaotong University (Fall 2025-,BS,Shanghai Jiaotong University)
 * Haoran Zhang @Shanghai Jiaotong University (Fall 2025-,BS,Shanghai Jiaotong University)
