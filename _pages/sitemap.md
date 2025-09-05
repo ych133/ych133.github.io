@@ -33,6 +33,11 @@ Ph.D. Students @Other Universities
 * Haoyu Sun @Tongji University (Fall 2025,BS,UESTC)
 * Qianjia Cheng @Zhejiang University (Fall 2025,BS,Beihang University)
 
+Ph.D. Students @Shanghai Innovation Institute
+* Yixiao Zhou (Fall 2024-, affiliated with Zhejiang University)
+* Zhuo Wang (Fall 2024-, affiliated with Fudan University)
+* Ziyu Zhao (Fall 2024-, affiliated with Zhejiang University)
+
 Ph.D. Students as Thesis Committee
 * Zhihao Yuan (CUHK-Shenzhen, Fall 2022)
 * Xuxi Chen (The University of Texas at Austin, Spring 2022)
