@@ -1,7 +1,7 @@
 ---
 permalink: /sitemap/
 title: "Students "
-modified: 2024-06-05
+modified: 2024-09-05
 ---
 Postdoc @CUHK
 * Yafu Li (Ph.D. from Zhejiang University, Starting from Fall 2025)
@@ -35,10 +35,11 @@ Ph.D. Students @Other Universities
 
 Ph.D. Students @Shanghai Innovation Institute
 * Yixiao Zhou (Fall 2024-, affiliated with Zhejiang University)
-* Zhuo Wang (Fall 2024-, affiliated with Fudan University)
 * Ziyu Zhao (Fall 2024-, affiliated with Zhejiang University)
+* Zhuo Wang (Fall 2024-, affiliated with Fudan University)
 
 Ph.D. Students as Thesis Committee
 * Zhihao Yuan (CUHK-Shenzhen, Fall 2022)
 * Xuxi Chen (The University of Texas at Austin, Spring 2022)
+* Yun Luo (Zhejiang University, Fall 2021)
 * Yafu Li (Zhejiang University, Fall 2020)
