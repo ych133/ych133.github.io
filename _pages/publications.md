@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 2025
+* VideoREPA: Learning Physics for Video Generation through Relational Alignment with Foundation Models. Xiangdong Zhang, Jiaqi Liao, Shaofeng Zhang, Fanqing Meng, Xiangpeng Wan, Junchi Yan, **Yu Cheng**. [NeurIPS 2025](https://nips.cc/)
+* Unveiling the Compositional Ability Gap in Vision-Language Reasoning Model. Tianle Li, Jihai Zhang, Yongming Rao, **Yu Cheng**. [NeurIPS 2025](https://nips.cc/)
+* Learning to Reason under Off-Policy Guidance. Jianhao Yan, Yafu Li, Zican Hu, Zhi Wang, Ganqu Cui, Xiaoye Qu, **Yu Cheng**, Yue Zhang. [NeurIPS 2025](https://nips.cc/)
+* Shilin Zhang, Zican Hu, Wenhao Wu, Xinyi Xie, Jianxiang Tang, Chunlin Chen, Daoyi Dong, **Yu Cheng**, Zhenhong Sun, Zhi Wang. [NeurIPS 2025](https://nips.cc/)
+* Scaling Physical Reasoning with the PHYSICS Dataset. Shenghe Zheng, Qianjia Cheng, Junchi Yao, Mengsong Wu, Haonan He, Ning Ding, **Yu Cheng**, Shuyue Hu, Lei Bai, Dongzhan Zhou, Ganqu Cui, Peng Ye. [NeurIPS 2025](https://nips.cc/)
 * CLIP-MoE: Towards Building Mixture of Experts for CLIP with Diversified Multiplet Upcycling. Jihai Zhang, Xiaoye Qu, Tong Zhu, **Yu Cheng**. [EMNLP 2025](https://2025.emnlp.org/)
 * Bit-Flip Error Resilience in LLMs: A Comprehensive Analysis and Defense Framework. Yuhang Chen, Zhen Tan, AJAY KUMAR JAISWAL, Huaizhi Qu, Xinyu Zhao, Qi Lin, **Yu Cheng**, Andrew Kwong, Zhichao Cao, Tianlong Chen. [EMNLP 2025](https://2025.emnlp.org/)
 * UltraIF: Advancing Instruction Following from the Wild. Kaikai, Li Sheng, Ganqu Cui, Shuzheng Si, Ning Ding, **Yu Cheng**, Baobao Chang. [EMNLP 2025](https://2025.emnlp.org/)
