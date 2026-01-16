@@ -50,7 +50,7 @@ Ph.D. Students @Shanghai Innovation Institute
 * Zhuo Wang (Fall 2024-, affiliated with Fudan University)
 
 Ph.D. Students as Thesis Committee
-* Xuxi Chen ()
+* Xinyu Zhao (University of North Carolina at Chapel Hill, Fall 2025)
 * Zhihao Yuan (CUHK-Shenzhen, Fall 2022)
 * Xuxi Chen (The University of Texas at Austin, Spring 2022)
 * Yun Luo (Zhejiang University, Fall 2021)
