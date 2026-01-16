@@ -13,10 +13,12 @@ Ph.D. Students @CUHK
 * Han Song (Fall 2025-,BS,Tsinghua University)
 * Puyi Wang (Fall 2025-,BS,Shanghai Jiaotong University)
 * Jiacheng Chen (Fall 2025-,BS,South China University of Technology)
+* Minqi Wang (Fall 2026-,BS,Peking University)
+* Siyuan Huang (Fall 2026-,BS,Shanghai Jiaotong University)
 
 Ph.D. Students @Other Universities
 * Fengbo Lan @Tsinghua University (Fall 2022-,BS,South China University of Technology)
-* Kaipeng Zhang @Peking University (Fall 2023-,BS,Peking University)
+* Shunkai Zhang @Peking University (Fall 2023-,BS,Peking University)
 * Mingyang Song @Fudan University (Fall 2023-,BS,Harbin Institute of Technology)
 * Hengxuan Xu @Tsinghua University (Fall 2024-,BS,Tsinghua University)
 * Jiayi Hou @Shanghai Jiaotong University (Fall 2024-,BS,Tsinghua University)
@@ -32,6 +34,15 @@ Ph.D. Students @Other Universities
 * Zhilin Wang @University of Science and Technology of China (Fall 2025,BS,Jilin University)
 * Haoyu Sun @Tongji University (Fall 2025,BS,UESTC)
 * Qianjia Cheng @Zhejiang University (Fall 2025,BS,Beihang University)
+* Wenxuan Zeng @Tsinghua University (Fall 2026-,BS,Beihang University)
+* Zefeng He @Shanghai Jiaotong University (Fall 2026-,BS,Nanjing University)
+* Yukai Chai @Shanghai Jiaotong University (Fall 2026-,BS,Zhejiang University)
+* Zihan Ma @Shanghai Jiaotong University (Fall 2026-,BS,Zhejiang University)
+* Xinyu Zhang @Fudan University (Fall 2026-,BS,UESTC)
+* Luxin Xu @Fudan University (Fall 2026-,BS,UESTC)
+* Xiaoyang Chen @University of Science and Technology of China (Fall 2026,BS,UESTC)
+* Sihan Chen @University of Science and Technology of China (Fall 2026,BS,UESTC)
+* Wenxuan Wang @Harbin Institute of Technology (Fall 2026,BS,HIT)
 
 Ph.D. Students @Shanghai Innovation Institute
 * Yixiao Zhou (Fall 2024-, affiliated with Zhejiang University)
@@ -39,6 +50,7 @@ Ph.D. Students @Shanghai Innovation Institute
 * Zhuo Wang (Fall 2024-, affiliated with Fudan University)
 
 Ph.D. Students as Thesis Committee
+* Xuxi Chen ()
 * Zhihao Yuan (CUHK-Shenzhen, Fall 2022)
 * Xuxi Chen (The University of Texas at Austin, Spring 2022)
 * Yun Luo (Zhejiang University, Fall 2021)
