@@ -4,6 +4,20 @@ title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
+2026
+* From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation. Han Song, Yucheng Zhou, Jianbing Shen, **Yu Cheng**. [ICLR 2026](https://iclr.cc/)
+* ThinkMorph: Emergent Properties in Multimodal Interleaved Chain-of-Thought Reasoning. Jiawei Gu, Yunzhuo Hao, Huichen Will Wang, Linjie Li, Michael Qizhe Shieh, Yejin Choi, Ranjay Krishna, **Yu Cheng**. [ICLR 2026](https://iclr.cc/)
+* AdaReasoner: Dynamic Tool Orchestration for Iterative Visual Reasoning. Mingyang Song, Haoyu Sun, Jiawei Gu, Linjie Li, Ranjay Krishna, **Yu Cheng**. [ICLR 2026](https://iclr.cc/)
+* ExGRPO: Learning to Reason from Prior Successes. Runzhe Zhan, Yafu Li, Zhi Wang, Xiaoye Qu, Dongrui Liu, Jing Shao, Derek F. Wong, **Yu Cheng**. [ICLR 2026](https://iclr.cc/)
+* Spotlight on Token Perception for Multimodal Reinforcement Learning. Siyuan Huang, Xiaoye Qu, Yafu Li, Yun Luo, Zefeng He, Daizong Liu, **Yu Cheng**. [ICLR 2026](https://iclr.cc/)
+* MoM: Linear Sequence Modeling with Mixture-of-Memories. Jusen Du, Weigao Sun, Disen Lan, Jiaxi Hu, Tao Zhang, **Yu Cheng**. [ICLR 2026](https://iclr.cc/)
+* FrameThinker: Learning to Think with Long Videos via Multi-Turn Frame Spotlighting. Zefeng He, Xiaoye Qu, Yafu Li, Siyuan Huang, Daizong Liu, **Yu Cheng**. [ICLR 2026](https://iclr.cc/)
+* Revisual-R1: Advancing Multimodal Reasoning From Optimized Cold Start to Staged Reinforcement Learning. Shuang Chen, Hangyu Guo, Zhaochen Su, Yafu Li, Jiacheng Chen, Yulun Wu, Weijie Wang, ZhiYuan Feng, Xiaoye Qu, **Yu Cheng**. [ICLR 2026](https://iclr.cc/)
+* DiffuGuard: How Intrinsic Safety is Lost and Found in Diffusion Large Language Models. Zherui Li, Zheng Nie, Zhenhong Zhou, Yufei Guo, Yue Liu, Yitong Zhang, **Yu Cheng**, Qingsong Wen, Kun Wang, Jiaheng Zhang. [ICLR 2026](https://iclr.cc/)
+* Interleaving Reasoning for Better Text-to-Image Generation. Wenxuan Huang, Shuang Chen, Zheyong Xie, Shaosheng Cao, SHIXIANG TANG, Yufan Shen, Qingyu Yin, Wenbo Hu, Xiaoman Wang, Yuntian Tang, Junbo Qiao, Hangyu Guo, Yao Hu, Zhenfei Yin, Philip Torr, **Yu Cheng**, Wanli Ouyang, Shaohui Lin. [ICLR 2026](https://iclr.cc/)
+* Diversity-Incentivized Exploration for Versatile Reasoning. Zican Hu, Shilin Zhang, Yafu Li, Jianhao Yan, Xuyang Hu, Leyang Cui, Xiaoye Qu, Chunlin Chen, **Yu Cheng**, Zhi Wang. [ICLR 2026](https://iclr.cc/)
+* Conditional Advantage Estimation for Reinforcement Learning in Large Reasoning Models. Guanxu Chen, Yafu Li, Yuxian Jiang, Chen Qian, Qihan Ren, Yang JingYi, **Yu Cheng**, Dongrui Liu, Jing Shao. [ICLR 2026](https://iclr.cc/)
+
 2025
 * VideoREPA: Learning Physics for Video Generation through Relational Alignment with Foundation Models. Xiangdong Zhang, Jiaqi Liao, Shaofeng Zhang, Fanqing Meng, Xiangpeng Wan, Junchi Yan, **Yu Cheng**. [NeurIPS 2025](https://nips.cc/)
 * Unveiling the Compositional Ability Gap in Vision-Language Reasoning Model. Tianle Li, Jihai Zhang, Yongming Rao, **Yu Cheng**. [NeurIPS 2025](https://nips.cc/)
