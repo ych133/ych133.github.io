@@ -5,6 +5,7 @@ modified: 2024-09-05
 ---
 Postdoc @CUHK
 * Yafu Li (Ph.D. from Zhejiang University, Starting from Fall 2025)
+* Zhiyong Wang (Ph.D. from CUHK, Starting from Winter 2026)
 
 Ph.D. Students @CUHK
 * Tianle Li (Fall 2024-,BS,HKUST, MS,University of Waterloo)
