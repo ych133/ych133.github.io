@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 2026
+* VideoSSR: Video Self-Supervised Reinforcement Learning. Zefeng He, Xiaoye Qu, Yafu Li, Siyuan Huang, Daizong Liu, **Yu Cheng**. [CVPR 2026](https://cvpr.thecvf.com/)
+* TiViBench: Benchmarking Think-in-Video Reasoning for Video Generation. Harold Haodong Chen, Disen Lan, Wen-Jie Shu, Qingyang Liu, ZihanWang, Sirui CHEN, Wenkai Cheng, Kanghao Chen, Hongfei Zhang, Zixin Zhang, Rongjin Guo, **Yu Cheng**, Ying-Cong Chen. [CVPR 2026](https://cvpr.thecvf.com/)
+* Flash-DMD: Towards High-Fidelity Few-Step Image Generation with Efficient Distillation and Joint Reinforcement Learning. Guanjie Chen, Shirui Huang, Yifu Sun, Kai Liu, Jianchen Zhu, Xiaoye Qu, **Yu Cheng**, Peng Chen. [CVPR 2026](https://cvpr.thecvf.com/)
 * From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation. Han Song, Yucheng Zhou, Jianbing Shen, **Yu Cheng**. [ICLR 2026](https://iclr.cc/)
 * ThinkMorph: Emergent Properties in Multimodal Interleaved Chain-of-Thought Reasoning. Jiawei Gu, Yunzhuo Hao, Huichen Will Wang, Linjie Li, Michael Qizhe Shieh, Yejin Choi, Ranjay Krishna, **Yu Cheng**. [ICLR 2026](https://iclr.cc/)
 * AdaReasoner: Dynamic Tool Orchestration for Iterative Visual Reasoning. Mingyang Song, Haoyu Sun, Jiawei Gu, Linjie Li, Ranjay Krishna, **Yu Cheng**. [ICLR 2026](https://iclr.cc/)
