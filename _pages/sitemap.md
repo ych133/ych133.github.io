@@ -38,7 +38,7 @@ Ph.D. Students @Other Universities
 * Wenxuan Zeng @Tsinghua University (Fall 2026-,BS,Beihang University)
 * Zefeng He @Shanghai Jiaotong University (Fall 2026-,BS,Nanjing University)
 * Yukai Chai @Shanghai Jiaotong University (Fall 2026-,BS,Zhejiang University)
-* Zihan Ma @Shanghai Jiaotong University (Fall 2026-,BS,Zhejiang University)
+* Zihan Ma @Shanghai Jiaotong University (Fall 2026-,BS&MS,Zhejiang University)
 * Xinyu Zhang @Fudan University (Fall 2026-,BS,UESTC)
 * Luxin Xu @Fudan University (Fall 2026-,BS,UESTC)
 * Xiaoyang Chen @University of Science and Technology of China (Fall 2026,BS,UESTC)
