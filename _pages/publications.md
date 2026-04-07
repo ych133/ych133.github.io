@@ -5,6 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 2026
+* Native Hybrid Attention for Efficient Sequence Modeling. Jusen Du, Jiaxi Hu, Zhang Tao, Weigao Sun,  **Yu Cheng**. [ACL 2026](https://2026.aclweb.org/)
+* Nirvana: A Specialized Generalist Model With Task-Aware Memory Mechanism. Yuhua Jiang, Shuang Cheng, Yihao Liu, Ermo Hua, Che Jiang, Weigao Sun, **Yu Cheng**, Feifei Gao, Biqing Qi, Bowen Zhou. [ACL 2026](https://2026.aclweb.org/)
+* One Refiner to Unlock Them All: Inference-Time Reasoning Elicitation via Reinforcement Query Refinement. Yixiao Zhou, Dongzhou Cheng, zhiliang wu, Yi Yang, **Yu Cheng**, Hehe Fan. [ACL 2026](https://2026.aclweb.org/)
+* Scaling Reasoning, Losing Control: Evaluating Instruction Following in Large Reasoning Models. Tingchen Fu, Yafu Li, Jiawei Gu, Xiaoye Qu, **Yu Cheng**, Hehe Fan. [ACL 2026](https://2026.aclweb.org/)
+* The Best of Both Worlds: Combining Parallel and Sequential Inference Scaling via Aggregation Fine-Tuning. Yafu Li, Zhilin Wang, Tingchen Fu, Ganqu Cui, Sen Yang, **Yu Cheng**. [ACL 2026](https://2026.aclweb.org/)
+* Multi-LLM Collaborative Search for Complex Problem Solving. Sen Yang, Yafu Li, Wai Lam, **Yu Cheng**. [ACL 2026](https://2026.aclweb.org/)
+* CoTEvol: Self-Evolving Chain-of-Thoughts for Data Synthesis in Mathematical Reasoning. Zhuo Wang, Zhuo Zhang, Yafu Li, **Yu Cheng**, Lizhen Qu, Zenglin Xu. [ACL 2026](https://2026.aclweb.org/)
 * VideoSSR: Video Self-Supervised Reinforcement Learning. Zefeng He, Xiaoye Qu, Yafu Li, Siyuan Huang, Daizong Liu, **Yu Cheng**. [CVPR 2026](https://cvpr.thecvf.com/)
 * TiViBench: Benchmarking Think-in-Video Reasoning for Video Generation. Harold Haodong Chen, Disen Lan, Wen-Jie Shu, Qingyang Liu, ZihanWang, Sirui CHEN, Wenkai Cheng, Kanghao Chen, Hongfei Zhang, Zixin Zhang, Rongjin Guo, **Yu Cheng**, Ying-Cong Chen. [CVPR 2026](https://cvpr.thecvf.com/)
 * Flash-DMD: Towards High-Fidelity Few-Step Image Generation with Efficient Distillation and Joint Reinforcement Learning. Guanjie Chen, Shirui Huang, Yifu Sun, Kai Liu, Jianchen Zhu, Xiaoye Qu, **Yu Cheng**, Peng Chen. [CVPR 2026](https://cvpr.thecvf.com/)
