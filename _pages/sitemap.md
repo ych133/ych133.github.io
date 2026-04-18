@@ -54,6 +54,7 @@ Ph.D. Students @Shanghai Innovation Institute
 
 Ph.D. Students as Thesis Committee
 * Xinyu Zhao (University of North Carolina at Chapel Hill, Fall 2025)
+* Shiqi Chen (City University of Hong Kong, Fall 2022)
 * Zhihao Yuan (CUHK-Shenzhen, Fall 2022)
 * Xuxi Chen (The University of Texas at Austin, Spring 2022)
 * Yun Luo (Zhejiang University, Fall 2021)
