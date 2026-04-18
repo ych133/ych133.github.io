@@ -44,11 +44,13 @@ Ph.D. Students @Other Universities
 * Xiaoyang Chen @University of Science and Technology of China (Fall 2026,BS,UESTC)
 * Sihan Chen @University of Science and Technology of China (Fall 2026,BS,UESTC)
 * Wenxuan Wang @Harbin Institute of Technology (Fall 2026,BS,HIT)
+* Hejun Dong @CUHK (Fall 2026,BS,HIT)
 
 Ph.D. Students @Shanghai Innovation Institute
 * Yixiao Zhou (Fall 2024-, affiliated with Zhejiang University)
 * Ziyu Zhao (Fall 2024-, affiliated with Zhejiang University)
 * Zhuo Wang (Fall 2024-, affiliated with Fudan University)
+* Tianhao Cheng (Fall 2025-, affiliated with Fudan University)
 
 Ph.D. Students as Thesis Committee
 * Xinyu Zhao (University of North Carolina at Chapel Hill, Fall 2025)
