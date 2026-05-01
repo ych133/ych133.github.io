@@ -6,7 +6,7 @@ author_profile: true
 ---
 2026
 * Characterizing, Evaluating, and Optimizing Complex Reasoning. Haoran Zhang, Yafu Li, Zhi Wang, Zhilin Wang, Shunkai Zhang, Xiaoye Qu, **Yu Cheng**. [ICML 2026](https://icml.cc/Conferences/2026)
-* Reasoning over Boundaries: Enhancing Specification Alignment via Test-time Deliberation. Haoran Zhang ~Haoran_Zhang19 , Yafu Li, Xuyang Hu, Dongrui Liu, Zhilin Wang, Bo Li, **Yu Cheng**. [ICML 2026](https://icml.cc/Conferences/2026)
+* Reasoning over Boundaries: Enhancing Specification Alignment via Test-time Deliberation. Haoran Zhang, Yafu Li, Xuyang Hu, Dongrui Liu, Zhilin Wang, Bo Li, **Yu Cheng**. [ICML 2026](https://icml.cc/Conferences/2026)
 * DiffThinker: Towards Generative Multimodal Reasoning with Diffusion Models. Zefeng He, Xiaoye Qu, Yafu Li, Tong Zhu, Qipeng Guo, Muxin Fu, Siyuan Huang, **Yu Cheng**. [ICML 2026](https://icml.cc/Conferences/2026)
 * ExpertWeaver: Unlocking the Inherent MoE in Dense LLMs with GLU Activation Patterns. Ziyu Zhao, Tong Zhu, Xin Yu, Zhi Zhang, Tiantian Fan, Jinluan Yang, Kun Kuang, Zhongyu wei, Fei Wu, **Yu Cheng**. [ICML 2026](https://icml.cc/Conferences/2026)
 * HiPhO: How Far Are (M)LLMs from Humans in the Latest High School Physics Olympiad Benchmark? Fangchen Yu, Haiyuan Wan, Qianjia Cheng, Yuchen Zhang, Jiacheng Chen, Fujun Han, Yulun Wu, Junchi Yao, Ruilizhen Hu, Ning Ding, **Yu Cheng**, Tao Chen, LEI BAI, Dongzhan Zhou, Yun Luo, Ganqu Cui, Peng Ye. [ICML 2026](https://icml.cc/Conferences/2026)
