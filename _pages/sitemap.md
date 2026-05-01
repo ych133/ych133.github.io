@@ -17,7 +17,7 @@ Ph.D. Students @CUHK
 * Minqi Wang (Fall 2026-,BS,Peking University)
 * Siyuan Huang (Fall 2026-,BS,Shanghai Jiaotong University)
 
-Ph.D. Students @Other Universities
+Ph.D. Students @Shanghai AI Lab
 * Fengbo Lan @Tsinghua University (Fall 2022-,BS,South China University of Technology)
 * Shunkai Zhang @Peking University (Fall 2023-,BS,Peking University)
 * Mingyang Song @Fudan University (Fall 2023-,BS,Harbin Institute of Technology)
