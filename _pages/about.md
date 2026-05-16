@@ -14,6 +14,7 @@ I regularly serve as a Senior Area Chair for NeurIPS and ICML and as an Area Cha
 
 Latest News
 ======
+* The team releases a 30B-A3B reasoning [model](https://huggingface.co/papers/2605.13301) that reaches gold-medal level across both physics (IPhO) and math Olympiad (IMO) evaluations.
 * The team has won first place and a gold medal in the International Physics Olympiad 2025 (IPhO 2025), [beating all the models](https://prime-rl.github.io/P1/), including Gemini 2.5 Pro, GPT-5 and Grok 4. (October 2025)
 * Serving as Senior Area Chair for ICML 2026 and ACL 2026. (October 2025)
 * Serving as Area Chair for ICLR 2026, AAAI 2026, WACV 2026, and CVPR 2026. (August 2025)
