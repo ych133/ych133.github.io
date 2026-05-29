@@ -14,7 +14,7 @@ I regularly serve as a Senior Area Chair for NeurIPS and ICML and as an Area Cha
 
 Latest News
 ======
-* **I am not taking new students or visitors at CUHK this year**.
+* **I am not taking new students or visitors at CUHK**.
 * The team releases a 30B-A3B reasoning [model](https://simplified-reasoning.github.io/SU-01/) that reaches gold-medal level across both physics (IPhO) and math Olympiad (IMO) evaluations, comparable to GPT 5.5, Gemini 3.1 Pro and DeepSeek V3.2 Speciale. (May 2026)
 * The team has won first place and a gold medal in the International Physics Olympiad 2025 (IPhO 2025), [beating all the models](https://prime-rl.github.io/P1/), including Gemini 2.5 Pro, GPT-5 and Grok 4. (October 2025)
 * Serving as Senior Area Chair for ICML 2026 and ACL 2026. (October 2025)
