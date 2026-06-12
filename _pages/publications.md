@@ -38,6 +38,7 @@ author_profile: true
 * Less is more: Vision representation compression for efficient video generation with large language models. Yucheng Zhou, Jihai Zhang, Guanjie Chen, Jianbing Shen, **Yu Cheng**. [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)
 * BREEN: Bridge Data-Efficient Encoder-Free Multimodal Learning with Learnable Queries. Tianle Li, Yongming Rao, Winston Hu, **Yu Cheng**. [WACV 2026](https://wacv.thecvf.com/)
 * Process Reinforcement through Implicit Rewards. Ganqu Cui, Lifan Yuan, Zefan Wang, Hao Peng, **Yu Cheng**, Zhiyuan Liu, Maosong Sun, Bowen Zhou, Ning Ding. [Transactions on Machine Learning Research (TMLR)](https://jmlr.org/tmlr/)
+* ExFusion: Efficient Transformer Training via Multi-Experts Fusion. Jiacheng Ruan, Daize Dong, Xiaoye Qu, Tong Zhu, Ting Liu, Yuzhuo Fu, **Yu Cheng**, Suncheng Xiang. [IEEE Transactions on Multimedia (TMM)](https://signalprocessingsociety.org/publications-resources/ieee-transactions-multimedia)
 
 2025
 * VideoREPA: Learning Physics for Video Generation through Relational Alignment with Foundation Models. Xiangdong Zhang, Jiaqi Liao, Shaofeng Zhang, Fanqing Meng, Xiangpeng Wan, Junchi Yan, **Yu Cheng**. [NeurIPS 2025](https://nips.cc/)
