@@ -10,7 +10,6 @@ Postdoc @CUHK
 Ph.D. Students @CUHK
 * Tianle Li (Fall 2024-,BS,HKUST, MS,University of Waterloo)
 * Jihai Zhang (Fall 2024-,BS,Shanghai Jiaotong University, MS,NUS)
-* Yixing Li (Winter 2025-,BS,Shanghai Jiaotong University)
 * Han Song (Fall 2025-,BS,Tsinghua University)
 * Puyi Wang (Fall 2025-,BS,Shanghai Jiaotong University)
 * Jiacheng Chen (Fall 2025-,BS,South China University of Technology)
