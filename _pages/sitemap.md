@@ -7,7 +7,7 @@ Postdoc @CUHK
 * Yafu Li (Ph.D. from Zhejiang University, starting from Fall 2025)
 * Zhiyong Wang (Ph.D. from CUHK, starting from Winter 2026)
 * Runzhe Zhan (Ph.D. from University of Macau, starting from Fall 2026)
-* 
+* Wei Liu (Ph.D. from Heidelberg University, starting from Fall 2026)
 
 Ph.D. Students @CUHK
 * Tianle Li (Fall 2024-,BS,HKUST, MS,University of Waterloo)
@@ -52,6 +52,7 @@ Ph.D. Students @Shanghai Innovation Institute
 * Ziyu Zhao (Fall 2024-, affiliated with Zhejiang University)
 * Zhuo Wang (Fall 2024-, affiliated with Fudan University)
 * Tianhao Cheng (Fall 2025-, affiliated with Fudan University)
+* Zhanpeng Shi (Fall 2026-, affiliated with Fudan University)
 * Yizhuo Li (Fall 2026-, affiliated with Shanghai Jiaotong University)
 
 Ph.D. Students as Thesis Committee
