@@ -15,6 +15,7 @@ Ph.D. Students @CUHK
 * Jiacheng Chen (Fall 2025-,BS,South China University of Technology)
 * Minqi Wang (Fall 2026-,BS,Peking University)
 * Siyuan Huang (Fall 2026-,BS,Shanghai Jiaotong University)
+* Hejun Dong (Fall 2026-,BS,HIT)
 
 Ph.D. Students @Shanghai AI Lab
 * Fengbo Lan @Tsinghua University (Fall 2022-,BS,South China University of Technology)
@@ -43,18 +44,17 @@ Ph.D. Students @Shanghai AI Lab
 * Xiaoyang Chen @University of Science and Technology of China (Fall 2026,BS,UESTC)
 * Sihan Chen @University of Science and Technology of China (Fall 2026,BS,UESTC)
 * Wenxuan Wang @Harbin Institute of Technology (Fall 2026,BS,HIT)
-* Hejun Dong @CUHK (Fall 2026,BS,HIT)
 
 Ph.D. Students @Shanghai Innovation Institute
 * Yixiao Zhou (Fall 2024-, affiliated with Zhejiang University)
 * Ziyu Zhao (Fall 2024-, affiliated with Zhejiang University)
 * Zhuo Wang (Fall 2024-, affiliated with Fudan University)
 * Tianhao Cheng (Fall 2025-, affiliated with Fudan University)
+* Yizhuo Li (Fall 2026-, affiliated with Shanghai Jiaotong University)
 
 Ph.D. Students as Thesis Committee
 * Xinyu Zhao (University of North Carolina at Chapel Hill, Fall 2025)
 * Bohao Li (CUHK-Shenzhen, Fall 2022)
-* Shiqi Chen (City University of Hong Kong, Fall 2022)
 * Xuxi Chen (The University of Texas at Austin, Spring 2021)
 * Zhihao Yuan (CUHK-Shenzhen, Fall 2021)
 * Yun Luo (Zhejiang University, Fall 2021)
