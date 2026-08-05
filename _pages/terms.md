@@ -15,7 +15,7 @@ Journal Action Editor
 * Area Chair: CVPR 2022 to 2026
 * Area Chair: ACL ARR 2023 to 2026
 * Area Chair: ACMMM 2020 to 2025
-* Area Chair: AAAI 2022, 2024, 2026
+* Area Chair: AAAI 2022, 2024, 2026, 2027
 * Area Chair: IJCAI 2021, 2025
 * Area Chair: WACV 2022, 2026
 
