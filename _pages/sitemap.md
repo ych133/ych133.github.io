@@ -3,7 +3,7 @@ permalink: /sitemap/
 title: "Students "
 modified: 2024-09-05
 ---
-Postdoc @CUHK
+Postdoc @NTU&CUHK
 * Yafu Li (Ph.D. from Zhejiang University, starting from Fall 2025)
 * Zhiyong Wang (Ph.D. from CUHK, starting from Winter 2026)
 * Runzhe Zhan (Ph.D. from University of Macau, starting from Fall 2026)
@@ -56,7 +56,8 @@ Ph.D. Students @Shanghai Innovation Institute
 * Yizhuo Li (Fall 2026-, affiliated with Shanghai Jiaotong University)
 
 Ph.D. Students as Thesis Committee
-* Xinyu Zhao (University of North Carolina at Chapel Hill, Fall 2025)
+* Xinyu Zhao (University of North Carolina at Chapel Hill, Fall 2024)
+* Maximilian Mordig (ETH Zurich, Fall 2023)
 * Bohao Li (CUHK-Shenzhen, Fall 2022)
 * Xuxi Chen (The University of Texas at Austin, Spring 2021)
 * Zhihao Yuan (CUHK-Shenzhen, Fall 2021)
