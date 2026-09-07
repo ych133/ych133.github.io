@@ -5,6 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 2026
+* CPSD: Counterfactual Patches Self-Distillation in RLVR. Yixiao Zhou, Dongzhou Cheng, Hehe Fan, **Yu Cheng**. [EMNLP 2026](https://2026.emnlp.org/) 
+* Higher-Dimensional Rotary Position Embedding. Yixing Li, Ruobing Xie, Yudong Zhang, Yushi Bai, Samm Sun, **Yu Cheng**. [EMNLP 2026](https://2026.emnlp.org/) 
+* SubtleMemory: A Benchmark for Fine-Grained Relational Memory Discrimination in Long-Horizon AI Agents. Wenxuan Wang, Haoyu Sun, Fukuan Hou, Mingyang Song, Weinan Zhang, **Yu Cheng**, Yang Yang. [EMNLP 2026](https://2026.emnlp.org/)
+* FullFront: Benchmarking MLLMs Across the Full Front-End Engineering Workflow. Haoyu Sun, Huichen Will Wang, Jiawei Gu, Linjie Li, **Yu Cheng**. [EMNLP 2026](https://2026.emnlp.org/)
+* LatentMem: Customizing Latent Memory for Multi-Agent Systems. Muxin Fu, Xiangyuan Xue, Yafu Li, Zefeng He, Siyuan Huang, Xiaoye Qu, **Yu Cheng**, Yang Yang. [EMNLP 2026](https://2026.emnlp.org/)
+* Draft-OPD: On-Policy Distillation for Speculative Draft Models Download. Haodi Lei, Yafu Li, Haoran Zhang, Shunkai Zhang, Qianjia Cheng, Xiaoye Qu, Ganqu Cui, Bowen Zhou, Ning Ding, Yun Luo, **Yu Cheng**. [EMNLP 2026](https://2026.emnlp.org/)
+* FaithRL: Learning to Reason Faithfully through Step-Level Faithfulness Maximization. Runquan Gui, Yafu Li, Xiaoye Qu, Ziyan Liu, Yeqiu Chen, **Yu Cheng**. [EMNLP 2026](https://2026.emnlp.org/)
+* New Skills or Sharper Primitives? A Probabilistic Perspective on the Emergence of Reasoning in RLVR. Zhilin Wang, Yafu Li, Shunkai Zhang, Zhi Wang, Haoran Zhang, Xiaoye Qu, **Yu Cheng**. [COLM 2026](https://colm.eventhosts.cc/)
+* Cross-Task Generalization Between Understanding and Generation in Unified Vision-Language Models: A Controlled Study. Jihai Zhang, Tianle Li, Linjie Li, Zhengyuan Yang, **Yu Cheng**. [BMVC 2026](https://bmvc2026.bmva.org/)
 * Characterizing, Evaluating, and Optimizing Complex Reasoning. Haoran Zhang, Yafu Li, Zhi Wang, Zhilin Wang, Shunkai Zhang, Xiaoye Qu, **Yu Cheng**. [ICML 2026](https://icml.cc/Conferences/2026)
 * Reasoning over Boundaries: Enhancing Specification Alignment via Test-time Deliberation. Haoran Zhang, Yafu Li, Xuyang Hu, Dongrui Liu, Zhilin Wang, Bo Li, **Yu Cheng**. [ICML 2026](https://icml.cc/Conferences/2026)
 * DiffThinker: Towards Generative Multimodal Reasoning with Diffusion Models. Zefeng He, Xiaoye Qu, Yafu Li, Tong Zhu, Qipeng Guo, Muxin Fu, Siyuan Huang, **Yu Cheng**. [ICML 2026](https://icml.cc/Conferences/2026)
