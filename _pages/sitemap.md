@@ -7,9 +7,8 @@ Postdoc @NTU&CUHK
 * Yafu Li (Ph.D. from Zhejiang University, starting from Fall 2025)
 * Zhiyong Wang (Ph.D. from CUHK, starting from Winter 2026)
 * Runzhe Zhan (Ph.D. from University of Macau, starting from Fall 2026)
-* Wei Liu (Ph.D. from Heidelberg University, starting from Fall 2026)
 
-Ph.D. Students @CUHK
+Ph.D. Students @NTU&CUHK
 * Tianle Li (Fall 2024-,BS,HKUST, MS,University of Waterloo)
 * Jihai Zhang (Fall 2024-,BS,Shanghai Jiaotong University, MS,NUS)
 * Han Song (Fall 2025-,BS,Tsinghua University)
@@ -18,6 +17,8 @@ Ph.D. Students @CUHK
 * Minqi Wang (Fall 2026-,BS,Peking University)
 * Siyuan Huang (Fall 2026-,BS,Shanghai Jiaotong University)
 * Hejun Dong (Fall 2026-,BS,HIT)
+* Liyuan Zhang (Winter 2027-,BS,Peking University)
+* Xinling Li (Fall 2027-,BS,South China University of Technology)
 
 Ph.D. Students @Shanghai AI Lab
 * Fengbo Lan @Tsinghua University (Fall 2022-,BS,South China University of Technology)
