@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 2026
+* Pretext Reasoning: Scaling the Building Blocks of Interleaved Multimodal Reasoning Download PDF Jiawei Gu, Linjie Li, Yiming Liu, Yunzhuo Hao, Zhichao Peng, Huichen Will Wang, Guanzheng Chen, Luxin Xu, Xinyu Zhang, Luo Li, Disen Lan, Zican Hu, Mingyang Song, David Valente, Alex Jinpeng Wang, Yafu Li, Ganqu Cui, Zhengyuan Yang, Michael Qizhe Shieh, Yejin Choi, Ranjay Krishna, **Yu Cheng**. [NeurIPS 2025](https://nips.cc/)
+* $\pi$-Bench: Evaluating Proactive Personal Assistant Agents in Long-Horizon Workflows. Haoran Zhang, Luxin Xu, Zhilin Wang, Runquan Gui, Shunkai Zhang, Haodi Lei, Tong Zhu, Xiaoye Qu, Yang Yang,  **Yu Cheng**, Yafu Li. [NeurIPS 2025](https://nips.cc/)
+* xHC: Expanded Hyper-Connections Download PDF Xiangdong Zhang, Xiaohan Qin, Tuo Dai, Xiaoming Shi, Huaijin Wu, Yebin Yang, Zhuo Xia, Shaofeng Zhang, Yu Wang, **Yu Cheng**, Junchi Yan. [NeurIPS 2025](https://nips.cc/)
+* Unify-Agent: A Unified Multimodal Agent for World-Grounded Image Synthesis. Shuang Chen, Quanxin Shou, Hangting Chen, Yucheng Zhou, Kaituo Feng, Wenbo Hu, YiFan Zhang, Yunlong Lin, Wenxuan Huang, Mingyang Song, Dasen Dai, Bolin Jiang, Manyuan Zhang, **Yu Cheng**, Nanyun Peng. [NeurIPS 2025](https://nips.cc/)
 * CPSD: Counterfactual Patches Self-Distillation in RLVR. Yixiao Zhou, Dongzhou Cheng, Hehe Fan, **Yu Cheng**. [EMNLP 2026](https://2026.emnlp.org/) 
 * Higher-Dimensional Rotary Position Embedding. Yixing Li, Ruobing Xie, Yudong Zhang, Yushi Bai, Samm Sun, **Yu Cheng**. [EMNLP 2026](https://2026.emnlp.org/) 
 * SubtleMemory: A Benchmark for Fine-Grained Relational Memory Discrimination in Long-Horizon AI Agents. Wenxuan Wang, Haoyu Sun, Fukuan Hou, Mingyang Song, Weinan Zhang, **Yu Cheng**, Yang Yang. [EMNLP 2026](https://2026.emnlp.org/)
